@@ -1,0 +1,30 @@
+#presentation {
+
+}
+
+#en-quelques-chiffres {
+
+}
+
+#grandes-reussites {
+  counter-reset: achievements;
+
+  h3::before {
+    counter-increment: achievements;
+    content: counter(achievements);
+    display: block;
+  }
+
+}
+
+#notre-organisme {
+
+}
+
+#bilan-financier {
+
+}
+
+#partenaires {
+
+}
