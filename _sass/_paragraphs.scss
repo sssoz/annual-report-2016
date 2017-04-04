@@ -7,6 +7,13 @@
 }
 
 #grandes-reussites {
+  counter-reset: achievements;
+
+  h2::before {
+    counter-increment: achievements;
+    content: counter(achievements);
+    display: block;
+  }
 
 }
 
@@ -19,5 +26,5 @@
 }
 
 #partenaires {
-  
+
 }
