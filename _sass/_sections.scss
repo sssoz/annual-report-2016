@@ -1,0 +1,85 @@
+section {
+
+  &#cover-page {
+    background-image: url("../img/cover-page.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 150vh;
+
+    h1 {
+      color: $coral;
+      top: 80vh;
+      position: relative;
+      width: 300px;
+    }
+
+  }
+
+  &#presentation {
+    background-color: $coral;
+    color: #fff;
+    padding-top: 100px;
+
+    h2 {
+      @extend .sr-only;
+    }
+
+  }
+
+  &#en-quelques-chiffres {
+    background-color: $light-grey;
+    color: $coral;
+
+    &:after {
+      background-image: url("../img/grandes-reussites-top.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: bottom center;
+      width: 100%;
+      height: 600px;
+      content: " ";
+      display: block;
+    }
+
+  }
+
+  &#grandes-reussites {
+    background-color: $marine;
+    color: #fff;
+  }
+
+  &#notre-organisme {
+    background-color: #fff;
+    color: #000;
+
+    &:before {
+      background-image: url("../img/grandes-reussites-bottom.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: bottom center;
+      width: 100%;
+      height: 600px;
+      content: " ";
+      display: block;
+    }
+
+    h3 {
+      color: $coral;
+      border-bottom: 1px solid $coral;
+      padding: 0.5em 0;
+    }
+
+  }
+
+  &#bilan-financier {
+    background-color: $light-grey;
+    color: #000;
+  }
+
+  &#partenaires {
+    background-color: #fff;
+    color: $coral;
+  }
+
+}

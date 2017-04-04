@@ -1,0 +1,24 @@
+[class^='text-'] {
+  letter-spacing: 0.015em;
+
+  &[class$='xs'] {
+    font-size: 14px;
+  }
+
+  &[class$='sm'] {
+    font-size: 16px;
+  }
+
+  &[class$='md'] {
+    font-size: 18px;
+  }
+
+  &[class$='lg'] {
+    font-size: 24px;
+  }
+
+  &[class$='xl'] {
+    font-size: 60px;
+  }
+
+}
