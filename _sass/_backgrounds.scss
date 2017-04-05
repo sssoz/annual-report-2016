@@ -59,6 +59,17 @@
     display: block;
   }
 
+  &:after {
+    background-image: url("../img/bilan-financier-top.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+    width: 100%;
+    height: 600px;
+    content: " ";
+    display: block;
+  }
+
 }
 
 #bilan-financier {
@@ -69,4 +80,16 @@
 #partenaires {
   background-color: #fff;
   color: $coral;
+
+  &:before {
+    background-image: url("../img/bilan-financier-bottom.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+    width: 100%;
+    height: 600px;
+    content: " ";
+    display: block;
+  }
+
 }
