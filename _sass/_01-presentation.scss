@@ -1,0 +1,21 @@
+#presentation {
+
+  h2 {
+    @extend .sr-only;
+  }
+
+  h3 {
+    @extend .text-sm;
+  }
+
+  .portrait {
+    float: right;
+  }
+
+  #valeurs + ul {
+    @extend .col-xs-12;
+    float: none;
+    @include content-columns(2);
+  }
+
+}

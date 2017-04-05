@@ -1,14 +1,17 @@
-#presentation {
+#en-quelques-chiffres {
 
-  #valeurs + ul {
-    @extend .col-xs-12;
-    float: none;
-    @include content-columns(2);
+  h2 {
+    margin-top: 30px;
   }
 
-}
+  h3 {
+    @extend .text-sm;
+  }
 
-#en-quelques-chiffres {
+  h4 {
+    padding: 0;
+    @extend .text-xl;
+  }
 
   #publications + ul {
     @extend .col-xs-12;
@@ -239,21 +242,5 @@
     }
 
   }
-
-}
-
-#grandes-reussites {
-
-}
-
-#notre-organisme {
-
-}
-
-#bilan-financier {
-
-}
-
-#partenaires {
 
 }
