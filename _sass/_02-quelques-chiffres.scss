@@ -25,12 +25,13 @@
     > li {
       border-top: 1px solid $coral;
       padding: 15px;
-      padding-bottom: 30px;
+      padding-bottom: 40px;
 
       &:nth-child(odd) {
         @extend .text-xl;
         @extend .col-md-7;
         padding-left: 0;
+        line-height: 1;
       }
 
       &:nth-child(even) {
@@ -216,6 +217,7 @@
             @extend .row;
 
             dt {
+              line-height: 1;
               @extend .text-md;
               @extend .col-sm-4;
             }
@@ -242,6 +244,7 @@
 
         dt {
           color: #000;
+          line-height: 1;
           @extend .col-sm-4;
         }
 
