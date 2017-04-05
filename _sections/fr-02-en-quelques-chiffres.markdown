@@ -44,55 +44,55 @@ Nous accompagnons les éditeurs scientifiques et culturels dans la diffusion num
 {:.text-md}
 9 nouvelles revues ont rejoint la plateforme Érudit en 2015–2016
 
-- {:.oa-journal} #### [Alterstice](http://www.erudit.org/fr/revues/alterstice/)
+- {:.oa-journal} #### [Alterstice](http://www.erudit.org/fr/revues/alterstice/){:target="_blank"}
   - Revue savante
   <br/>2 numéros par année
   <br/>En libre accès complet
   - *Alterstice* s’appuie sur une définition large de ce qu’est la recherche interculturelle dans le but de dépasser les frontières « naturelles » de champ entre les études qui portent sur les migrants et les migrations et celles qui portent sur un phénomène au sein d’une ou plusieurs cultures. Pour saisir les réalités locales dans un monde globalisé, les regards croisés entre chercheurs sont favorisés pour ajouter une profondeur supplémentaire aux analyses en sciences sociales.
 
-- {:.oa-journal} #### [Les ateliers de l’éthique](http://www.erudit.org/fr/revues/ateliers/)
+- {:.oa-journal} #### [Les ateliers de l’éthique](http://www.erudit.org/fr/revues/ateliers/){:target="_blank"}
   - Revue savante
   <br/>3 numéros par an
   <br/>En libre accès complet
   - *Les ateliers de l’éthique* publient des articles de recherche traitant d’éthique sous ses multiples formes, en particulier sur les enjeux normatifs des politiques publiques et des pratiques sociales.
 
-- #### [Archives](http://www.erudit.org/fr/revues/archives/)
+- #### [Archives](http://www.erudit.org/fr/revues/archives/){:target="_blank"}
   - Revue savante
   <br/>1 numéro par année
   <br/>Numéros courants sous restriction
   - *Archives* se veut un lieu de rencontre entre les différentes disciplines plus traditionnellement liées aux sciences de l’information telles que l’archivistique, la bibliothéconomie ou la gestion documentaire et les nouveaux enjeux comme la gestion des connaissances, la gestion du changement, la gestion des mégadonnées ou la gestion de contenus.
 
-- {:.oa-journal} #### [BioéthiqueOnline](http://www.erudit.org/fr/revues/bo/)
+- {:.oa-journal} #### [BioéthiqueOnline](http://www.erudit.org/fr/revues/bo/){:target="_blank"}
   - Revue savante
   <br/>1 numéro par année
   <br/>En libre accès complet
   - *BioéthiqueOnline* est une revue bilingue qui vise à publier les résultats de la recherche théorique, conceptuelle et empirique en bioéthique. La revue est une collaboration entre les Programmes de bioéthique et l’Association des étudiants de bioéthique de l’Université de Montréal (AÉBiUM). Sa plateforme entièrement en ligne réunit les ressources académiques et professionnelles afin d’aider à favoriser le développement d’une communauté de bioéthique collaboratrice et stable au Canada et à l’étranger.
 
-- #### [Revue canadienne de service social](http://www.erudit.org/fr/revues/cswr/)
+- #### [Revue canadienne de service social](http://www.erudit.org/fr/revues/cswr/){:target="_blank"}
   - Revue savante
   <br/>2 numéros par année
   <br/>Numéros courants sous restriction
   - *La Revue canadienne de service social* (RCSS) est une revue savante, arbitrée et bilingue, qui présente l’état actuel des connaissances et qui s’intéresse aux préoccupations contemporaines dans le domaine de la pratique et de l’enseignement du travail social au Canada et à l’étranger. La revue a pour objectif de faire progresser le savoir, la pratique et l’enseignement, en publiant des travaux de recherche originaux ainsi que des analyses critiques qui contribuent à enrichir ou à remettre en question les connaissances actuelles.
 
-- #### [L’Inconvénient](http://www.erudit.org/fr/revues/linconvenient/)
+- #### [L’Inconvénient](http://www.erudit.org/fr/revues/linconvenient/){:target="_blank"}
   - Revue culturelle
   <br/>4 numéros par année
   <br/>Numéros courants sous restriction
   - *L’Inconvénient* propose différents dossiers explorant des perspectives plurielles sur le monde actuel et s’adressant à un public multigénérationnel. Ne voulant rien négliger de ce qui fait le charme de l’existence, soit la beauté, cette revue examine tous ses angles, même ses embarras et ses complications ou autrement dit, ses inconvénients. Faisant suite à cette mission, elle présente, entre autres, un cahier critique s’intéressant à la littérature, à la peinture aussi bien qu’aux séries télé et au cinéma.
 
-- #### [Mesures et évaluation en éducation](http://www.erudit.org/fr/revues/mee/)
+- #### [Mesures et évaluation en éducation](http://www.erudit.org/fr/revues/mee/){:target="_blank"}
   - Revue savante
   <br/>3 numéros par an
   <br/>Numéros courants sous restriction
   - La revue *Mesures et évaluation en éducation* est un instrument de communication et d’échange destiné aux personnes intéressées selon divers points de vue au domaine de la mesure et de l’évaluation en éducation et désireuses d’être informées des travaux de recherche et de réflexion les plus récents.
 
-- #### [Nouveaux Cahiers du socialisme](http://www.erudit.org/fr/revues/ncs/)
+- #### [Nouveaux Cahiers du socialisme](http://www.erudit.org/fr/revues/ncs/){:target="_blank"}
   - Revue culturelle
   <br/>2 numéros par année
   <br/>Numéros courants sous restriction
   - La revue *Nouveaux Cahiers du socialisme* est l’outil de diffusion principal du Collectif d’analyse politique (CAP). Par le biais de la revue, le CAP cherche à faire l’analyse approfondie de la dimension structurelle du capitalisme contemporain pour ensuite élaborer une perspective anti et post capitaliste à la fois propositionnelle, concrète et pratique pour alimenter le mouvement social et la gauche politique de nouvelles alternatives.
 
-- #### [Revue générale de droit](http://www.erudit.org/fr/revues/rgd/)
+- #### [Revue générale de droit](http://www.erudit.org/fr/revues/rgd/){:target="_blank"}
   - Revue savante
   <br/>2 numéros par an
   <br/>Numéros courants sous restriction
