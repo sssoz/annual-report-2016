@@ -23,7 +23,7 @@ toc:
   fr: "Table des matières"
   en: "Table of Contents"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.erudit.org/rappport/2016" # the base hostname & protocol for your site
+url: "https://www.erudit.org/rapport/2016" # the base hostname & protocol for your site
 twitter_username: eruditorg
 github_username:  erudit
 permalink: pretty
@@ -32,3 +32,7 @@ collections:
 
 # Build settings
 markdown: kramdown
+kramdown:
+    auto_ids: false
+sass:
+    style: :compressed
