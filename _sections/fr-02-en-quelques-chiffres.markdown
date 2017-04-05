@@ -4,7 +4,7 @@ ref: en-quelques-chiffres
 lang: fr
 order: 02
 ---
-{:.text-sm .col-sm-8 .col-md-6 .intro}
+{:.text-sm .intro}
 Nous accompagnons les éditeurs scientifiques et culturels dans la diffusion numérique de leurs publications à travers une large gamme de services. Découvrez nos activités de 2015-2016 en quelques chiffres.
 
 ---
@@ -38,10 +38,10 @@ Nous accompagnons les éditeurs scientifiques et culturels dans la diffusion num
 
 ---
 
-{:.col-md-5 #nouvelles-revues}
+{:#nouvelles-revues}
 ### Nouvelles revues
 
-{:.text-md .col-md-7}
+{:.text-md}
 9 nouvelles revues ont rejoint la plateforme Érudit en 2015–2016
 
 - {:.oa-journal} #### [Alterstice](http://www.erudit.org/fr/revues/alterstice/)

@@ -13,6 +13,12 @@
     @extend .text-xl;
   }
 
+  .intro {
+    @extend .col-sm-8;
+    @extend .col-md-6;
+  }
+
+  // Publications sub-section
   #publications + ul {
     @extend .col-xs-12;
 
@@ -41,50 +47,59 @@
 
   }
 
-  #nouvelles-revues + p {
+  // Nouvelles revues sub-section
 
-    + ul {
-      @extend .col-xs-12;
+  #nouvelles-revues {
+    @extend .col-md-5;
 
-      h4 {
-        border: none;
-        @extend .text-xs;
-        @extend .col-md-3;
-        padding-left: 0;
+    + p {
+      @extend .col-md-7;
 
-        a {
-          color: #000;
-        }
+     + ul {
+       @extend .col-xs-12;
 
-      }
+       h4 {
+         border: none;
+         @extend .text-xs;
+         @extend .col-md-3;
+         padding-left: 0;
 
-      > li {
-        display: block;
-        clear: both;
-        border-top: 1px solid $dark-grey;
-        padding-top: 10px;
+         a {
+           color: #000;
+         }
+
+       }
+
+       > li {
+         display: block;
+         clear: both;
+         border-top: 1px solid $dark-grey;
+         padding-top: 10px;
 
 
-        > ul li {
-          color: $dark-grey;
+         > ul li {
+           color: $dark-grey;
 
-          &:nth-child(1) {
-            @extend .col-md-4;
-          }
+           &:nth-child(1) {
+             @extend .col-md-4;
+           }
 
-          &:nth-child(2) {
-            @extend .col-md-5;
-            margin-bottom: 20px;
-          }
+           &:nth-child(2) {
+             @extend .col-md-5;
+             margin-bottom: 20px;
+           }
 
-        }
+         }
 
-      }
+       }
 
-    }
+     }
+
+   }
 
   }
 
+  // Services sub-section
   .service {
 
     h4 {

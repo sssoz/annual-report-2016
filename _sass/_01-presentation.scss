@@ -8,14 +8,36 @@
     @extend .text-sm;
   }
 
-  .portrait {
-    float: right;
+  .intro {
+    @extend .col-sm-10;
+    @extend .col-md-8;
   }
 
+  #mission + p {
+    @extend .col-sm-11;
+    @extend .col-md-9;
+  }
+
+  // Valeurs sub-section
   #valeurs + ul {
     @extend .col-xs-12;
     float: none;
     @include content-columns(2);
+  }
+
+  #mot-du-president,
+  #mot-de-la-directrice {
+
+    + p {
+      @extend .col-sm-8;
+      @extend .col-md-6;
+    }
+
+  }
+
+  .portrait {
+    float: right;
+    @extend .col-sm-4;
   }
 
 }

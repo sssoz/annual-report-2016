@@ -122,7 +122,7 @@ Liste des présentations données durant l’année
 
 #### Notre équipe
 
-{:.text-sm .col-sm-8 .col-md-6}
+{:.text-sm}
 Notre équipe est composée de professionnels du milieu de l’édition ou des bibliothèques, tous passionnés par les nouvelles possibilités offertes par le numérique pour la recherche et la création&nbsp;!
 
 Directrice générale
