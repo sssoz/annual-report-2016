@@ -1,10 +1,6 @@
 ---
-title:  "Bilan financier"
+title:  "Financial Statement"
 ref: bilan-financier
 lang: en
 order: 05
 ---
-### Produits
-
-
-### Charges

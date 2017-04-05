@@ -23,6 +23,7 @@ body {
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
+    word-wrap: break-word;
 }
 
 
@@ -66,7 +67,8 @@ figcaption {
  * Lists
  */
 ul, ol {
-    margin-left: $spacing-unit;
+    margin: 0;
+    list-style: none;
 }
 
 li {

@@ -1,8 +1,244 @@
 #presentation {
 
+  #valeurs + ul {
+    @extend .col-xs-12;
+    float: none;
+    @include content-columns(2);
+  }
+
 }
 
 #en-quelques-chiffres {
+
+  #publications + ul {
+    @extend .col-xs-12;
+
+    > li {
+      border-top: 1px solid $coral;
+      padding: 15px;
+      padding-bottom: 30px;
+
+      &:nth-child(odd) {
+        @extend .text-xl;
+        @extend .col-md-7;
+        padding-left: 0;
+      }
+
+      &:nth-child(even) {
+        @extend .text-sm;
+        @extend .col-md-5;
+        padding-left: 0;
+      }
+
+      > ul {
+        @extend .text-xs;
+      }
+
+    }
+
+  }
+
+  #nouvelles-revues + p {
+
+    + ul {
+      @extend .col-xs-12;
+
+      h4 {
+        border: none;
+        @extend .text-xs;
+        @extend .col-md-3;
+        padding-left: 0;
+
+        a {
+          color: #000;
+        }
+
+      }
+
+      > li {
+        display: block;
+        clear: both;
+        border-top: 1px solid $dark-grey;
+        padding-top: 10px;
+
+
+        > ul li {
+          color: $dark-grey;
+
+          &:nth-child(1) {
+            @extend .col-md-4;
+          }
+
+          &:nth-child(2) {
+            @extend .col-md-5;
+            margin-bottom: 20px;
+          }
+
+        }
+
+      }
+
+    }
+
+  }
+
+  .service {
+
+    h4 {
+      margin-top: 20px;
+    }
+
+    > li {
+      border-top: 1px solid $coral;
+
+      ul {
+        @extend .text-xs;
+        clear: both;
+      }
+
+    }
+
+    &#edition,
+    &#diffusion {
+
+      > li {
+        @extend .col-md-6;
+
+        &:nth-child(1),
+        &:nth-child(2) {
+          padding-right: 10%;
+          @extend .text-xl;
+        }
+
+        &:nth-child(1) li {
+          @extend .text-xs;
+        }
+
+        &:nth-child(2) li {
+          @extend .text-sm;
+        }
+
+      }
+
+    }
+
+    &#diffusion {
+
+      ol {
+        margin-left: 20px;
+        list-style: decimal;
+
+        li {
+          padding-left: 15px;
+        }
+
+      }
+
+      // Section Partenariats
+      > li:nth-child(3) {
+        border: none;
+        margin-top: 30px;
+        @extend .col-xs-12;
+        clear: both;
+
+        h5 {
+          @extend .sr-only;
+        }
+
+        > ul {
+          @extend .row;
+          border: none;
+
+          > li {
+            @extend .col-sm-6;
+            color: #000;
+
+            ul {
+              color: $dark-grey;
+            }
+
+          }
+
+        }
+
+      }
+
+    }
+
+    &#commercialisation {
+
+      > li > ul > li {
+        margin-top: 30px;
+        @extend .col-md-6;
+
+        &:nth-child(1),
+        &:nth-child(2) {
+          padding-right: 10%;
+          @extend .text-xl;
+
+          li {
+            @extend .text-xs;
+          }
+
+        }
+
+        // Section 4 ententes majeures
+        &:nth-child(3) {
+          margin-top: 50px;
+          @extend .col-xs-12;
+          clear: both;
+          color: #000;
+
+          h5 {
+            padding: 0;
+            @extend .text-sm;
+          }
+
+          dl {
+            @extend .row;
+
+            dt {
+              @extend .text-md;
+              @extend .col-sm-4;
+            }
+
+            dd {
+              @extend .col-sm-8;
+              padding-right: 25%;
+              color: $dark-grey;
+              margin-bottom: 50px;
+            }
+
+          }
+
+        }
+
+      }
+
+    }
+
+    &#autres {
+
+      dl {
+        @extend .row;
+
+        dt {
+          color: #000;
+          @extend .col-sm-4;
+        }
+
+        dd {
+          @extend .col-sm-8;
+          padding-right: 25%;
+          color: $dark-grey;
+          margin-bottom: 50px;
+        }
+
+      }
+
+    }
+
+  }
 
 }
 

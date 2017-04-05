@@ -1,35 +1,46 @@
+#cover-page {
+  background-image: url("../img/cover-page.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 150vh;
+}
+
 section {
 
-  &#cover-page {
-    background-image: url("../img/cover-page.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    height: 150vh;
+  h2 {
+    @extend .text-lg;
+  }
 
-    h1 {
-      color: $coral;
-      top: 80vh;
-      position: relative;
-      width: 300px;
-    }
+  h3, h4, h5 {
+    @extend .col-xs-12;
+  }
 
+  hr {
+    width: 100%;
+    margin: 2em 0;
+    border-top: 1px solid transparent;
   }
 
   &#presentation {
     background-color: $coral;
     color: #fff;
-    padding-top: 100px;
-
-    h2 {
-      @extend .sr-only;
-    }
-
   }
 
   &#en-quelques-chiffres {
     background-color: $light-grey;
     color: $coral;
+
+    &:before {
+      background-image: url("../img/presentation-bottom.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: right bottom;
+      width: 100%;
+      height: 400px;
+      content: " ";
+      display: block;
+    }
 
     &:after {
       background-image: url("../img/grandes-reussites-top.png");
@@ -62,12 +73,6 @@ section {
       height: 600px;
       content: " ";
       display: block;
-    }
-
-    h3 {
-      color: $coral;
-      border-bottom: 1px solid $coral;
-      padding: 0.5em 0;
     }
 
   }

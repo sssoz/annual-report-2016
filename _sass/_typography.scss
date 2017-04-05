@@ -1,24 +1,46 @@
-[class^='text-'] {
-  letter-spacing: 0.015em;
+/**
+* Text styles and sizes
+*/
 
-  &[class$='xs'] {
-    font-size: 14px;
-  }
+.text-xs {
+  font-size: 16px;
+}
 
-  &[class$='sm'] {
-    font-size: 16px;
-  }
+.text-sm {
+  font-size: 24px;
+}
 
-  &[class$='md'] {
-    font-size: 18px;
-  }
+.text-md {
+  font-size: 50px;
+}
 
-  &[class$='lg'] {
-    font-size: 24px;
-  }
+.text-lg {
+  font-size: 60px;
+}
 
-  &[class$='xl'] {
-    font-size: 60px;
-  }
+.text-xl {
+  font-size: 100px;
+}
 
+em, i {
+  font-family: "Maax-Italic", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+strong, b  {
+  font-family: "Maax-Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+// bold italics
+em strong,
+strong em,
+i strong,
+strong i,
+b i,
+i b {
+  font-family: "Maax-BoldItalic";
+  font-weight: 700;
+  font-style: italic;
 }

@@ -1,8 +1,41 @@
+#cover-page {
+
+  h1 {
+    color: $coral;
+    top: 80vh;
+    position: relative;
+    width: 300px;
+  }
+
+}
+
 #presentation {
+
+  h2 {
+    @extend .sr-only;
+  }
+
+  h3 {
+    @extend .text-sm;
+  }
 
 }
 
 #en-quelques-chiffres {
+
+  h2 {
+    margin-top: 30px;
+    
+  }
+
+  h3 {
+    @extend .text-sm;
+  }
+
+  h4 {
+    padding: 0;
+    @extend .text-xl;
+  }
 
 }
 
@@ -19,6 +52,12 @@
 
 #notre-organisme {
 
+  h4 {
+    color: $coral;
+    border-top: 1px solid $coral;
+    padding-top: 0.5em;
+  }
+
 }
 
 #bilan-financier {
@@ -26,5 +65,11 @@
 }
 
 #partenaires {
+
+  h2 {
+    border-top: 1px solid $coral;
+    padding: 0.5em 0;
+    margin-top: 0.5em;
+  }
 
 }

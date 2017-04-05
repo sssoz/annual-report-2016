@@ -6,7 +6,7 @@
 
 
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: "Maax-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -24,6 +24,7 @@ $grey-color-dark:  darken($grey-color, 25%);
 $coral:           #ff4242;
 $marine:          #0a2463;
 $light-grey:      #f2f2f2;
+$dark-grey:       #787878;
 
 // Width of the content area
 $content-width:    800px;
@@ -51,6 +52,7 @@ $on-laptop:        800px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
   "bootstrap",
+  "fonts",
   "base",
   "typography",
   "layout",

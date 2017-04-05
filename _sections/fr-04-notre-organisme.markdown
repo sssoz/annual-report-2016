@@ -85,7 +85,9 @@ Liste des présentations données durant l’année
   - Participation à l’émission *Les années-lumière* sur la Première chaîne de Radio Canada
   - Science in French ou en anglais ? Participation de Tanja Niemann à une table ronde. [En savoir plus](http://ici.radio-canada.ca/emissions/les_annees_lumiere/2012-2013/chronique.asp?idChronique=401236)
 
+---
 
+{:#enjeux-diffusion}
 ### Série «&nbsp;Enjeux de la diffusion savante&nbsp;»
 
 {:.text-lg}
@@ -113,14 +115,14 @@ Liste des présentations données durant l’année
   - Le rôle des presses universitaires à l’heure du numérique
   - Benoît Melançon
 
+---
 
-
-
+{:#equipe-gouvernance}
 ### Équipe et gouvernance
 
 #### Notre équipe
 
-{:.text-sm}
+{:.text-sm .col-sm-8 .col-md-6}
 Notre équipe est composée de professionnels du milieu de l’édition ou des bibliothèques, tous passionnés par les nouvelles possibilités offertes par le numérique pour la recherche et la création&nbsp;!
 
 Directrice générale

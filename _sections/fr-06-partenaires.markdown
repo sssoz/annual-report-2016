@@ -4,6 +4,7 @@ ref: partenaires
 lang: fr
 order: 06
 ---
+{:#universites-associees}
 ### Universités associées
 
 ![Université de Montréal]({{ site.url }}/img/logo-udem.png)
@@ -12,6 +13,9 @@ order: 06
 
 ![Université du Québec à Montréal]({{ site.url }}/img/logo-uqam.png)
 
+---
+
+{:#autres-partenaires}
 ### Partenaires
 
 ![Agence universitaire de la Francophonie]({{ site.url }}/img/logo-auf.png)

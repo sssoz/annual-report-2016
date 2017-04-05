@@ -7,6 +7,7 @@ order: 05
 
 2015–2016
 
+{:#produits}
 ### Produits
 
 - Services d’édition et de commercialisation, partenariats
@@ -20,6 +21,9 @@ order: 05
 - Total
   - 2 635 735 $
 
+---
+
+{:#charges}
 ### Charges
 
 - Services d’édition et de commercialisation, partenariats
@@ -35,6 +39,9 @@ order: 05
 - Total
   - 2 903 707 $
 
-{:.text-lg}
-- Déficit net
-  - 267 972 $
+---
+
+{:#deficit-net}
+### Déficit net
+
+- 267 972 $

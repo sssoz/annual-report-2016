@@ -4,11 +4,11 @@ ref: index
 lang: fr
 ---
 
-<section id="cover-page">
+<div id="cover-page">
   <div class="container">
     <h1>{{ site.subtitle[page.lang] }}</h1>
   </div>
-</section>
+</div>
 
 {% assign sections=site.sections | where:"lang", page.lang | sort: 'order' %}
 {% for section in sections %}

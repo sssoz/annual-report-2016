@@ -1,10 +1,6 @@
 ---
-title:  "Our partners"
+title:  "Partners"
 ref: partners
 lang: en
 order: 06
 ---
-### Universités associées
-
-
-### Partenaires
