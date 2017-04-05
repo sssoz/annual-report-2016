@@ -1,6 +1,6 @@
 ---
 title:  "Partners"
-ref: partners
+ref: partenaires
 lang: en
 order: 06
 ---
