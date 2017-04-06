@@ -16,7 +16,7 @@ Liste des présentations données durant l’année
   - Rimouski, Canada
   - Organisation du colloque “Une plateforme de recherche et d’expérimentation pour l’édition ouverte”, Congrès de l’Acfas 2015
   <br><br>
-  Sous la direction de Vincent Larivière, directeur scientifique d’Érudit, le colloque a réuni une trentaine de chercheurs dans le domaine des sciences de l’information et des humanités numériques. [En savoir plus](https://apropos.erudit.org/fr/une-plateforme-de-recherche-et-dexperimentation-pour-ledition-ouverte/)
+  Sous la direction de Vincent Larivière, directeur scientifique d’Érudit, le colloque a réuni une trentaine de chercheurs dans le domaine des sciences de l’information et des humanités numériques. <br><br>[En savoir plus](https://apropos.erudit.org/fr/une-plateforme-de-recherche-et-dexperimentation-pour-ledition-ouverte/)
 - ##### 29 mai
   - Ottawa, Canada
   - Participation au Congrès 2015 de la Fédération des sciences humaines
@@ -36,22 +36,22 @@ Liste des présentations données durant l’année
   - Paris, France
   - Présentation du partenariat Érudit - RCDR dans le cadre de la Journée Couperin pour le libre accès
   <br><br>
-  Présentation du partenariat Érudit - RCDR à une centaine de directeurs de bibliothèques universitaires françaises.[En savoir plus](http://jao2015.sciencesconf.org/)
+  Présentation du partenariat Érudit - RCDR à une centaine de directeurs de bibliothèques universitaires françaises. <br><br>[En savoir plus](http://jao2015.sciencesconf.org/)
 - ##### 20 octobre
   - Paris, France
   - Co-organisation d’une table ronde sur les enjeux du libre accès en partenariat avec les bibliothèques de l’Université de Montréal
   <br><br>
-  La table ronde a permis de présenter différents points de vue autour de la diffusion en libre accès des résultats de la recherche. Participation d’environ 45 étudiants et chercheurs de l’Université de Montréal à cette table ronde. [En savoir plus](http://www.calendrier.umontreal.ca/?com=detail&eID=634325)
+  La table ronde a permis de présenter différents points de vue autour de la diffusion en libre accès des résultats de la recherche. Participation d’environ 45 étudiants et chercheurs de l’Université de Montréal à cette table ronde. <br><br>[En savoir plus](http://www.calendrier.umontreal.ca/?com=detail&eID=634325)
 - ##### 20–22 octobre
   - Ottawa, Canada
   - Présentation de la collaboration Érudit-PKP dans le cadre de l’Assemblée annuelle générale 2015 de l’ABRC-CARL
   <br><br>
-  Présentation des avancées de la collaboration entre Érudit et le Public Knowledge project (PKP) aux membres de l’Association des bibliothèques de recherche du Canada (CARL-ABRC). [En savoir plus](http://www.carl-abrc.ca/fr/a-propos-de-labrc/membres-2/reunions-des-membres/)
+  Présentation des avancées de la collaboration entre Érudit et le Public Knowledge project (PKP) aux membres de l’Association des bibliothèques de recherche du Canada (CARL-ABRC). <br><br>[En savoir plus](http://www.carl-abrc.ca/fr/a-propos-de-labrc/membres-2/reunions-des-membres/)
 - ##### 22 octobre
   - Québec, Canada
   - Présentation du Partenariat Érudit-RCDR à l’Université Laval dans le cadre de la Semaine internationale pour le libre accès
   <br><br>
-  Présentation du partenariat avec le RCDR à une trentaine de professeurs et chercheurs de l’Université Laval. [En savoir plus](http://www.bibl.ulaval.ca/semaine-internationale-du-libre-acces-2014)
+  Présentation du partenariat avec le RCDR à une trentaine de professeurs et chercheurs de l’Université Laval. <br><br>[En savoir plus](http://www.bibl.ulaval.ca/semaine-internationale-du-libre-acces-2014)
 - ##### 22–23 octobre
   - Québec, Canada
   - Atelier 2015 du Fonds des initiatives scientifiques majeures
@@ -61,17 +61,17 @@ Liste des présentations données durant l’année
   - Charleston, États-Unis
   - Présentation du Partenariat Érudit-RCDR à la Charleston Conference
   <br><br>
-  Présentation du partenariat avec le RCDR à une cinquantaine de directrices et directeurs de bibliothèques universitaires américaines. [En savoir plus](https://2015charlestonconference.sched.org/speaker/joanie.lavoie)
+  Présentation du partenariat avec le RCDR à une cinquantaine de directrices et directeurs de bibliothèques universitaires américaines. <br><br>[En savoir plus](https://2015charlestonconference.sched.org/speaker/joanie.lavoie)
 - ##### 16 novembre
   - Montréal, Canada
   - Participation à l’organisation du Bootcamp de l’Association canadienne des revues savantes canadiennes
   <br><br>
-  L’équipe des communications d’Érudit a participé à l’organisation de la journée « Bootcamp » de l’Association canadienne des revues savantes (ACRS-CALJ). Cette journée a permis l’actualisation des connaissances des 30 directrices et directeurs de revues savantes canadiennes présents à cette journée. [En savoir plus](http://www.calj-acrs.ca/sites/default/files/3rd-annualcalj-bootcamp-2015-en.pdf)
+  L’équipe des communications d’Érudit a participé à l’organisation de la journée « Bootcamp » de l’Association canadienne des revues savantes (ACRS-CALJ). Cette journée a permis l’actualisation des connaissances des 30 directrices et directeurs de revues savantes canadiennes présents à cette journée. <br><br>[En savoir plus](http://www.calj-acrs.ca/sites/default/files/3rd-annualcalj-bootcamp-2015-en.pdf)
 - ##### 17 novembre
   - Montréal, Canada
   - Organisation du séminaire *Nouveaux modes de diffusion des connaissances et libre accès au Canada* en collaboration avec le RCDR
   <br><br>
-  Le séminaire a permis d’améliorer le dialogue entre les revues savantes et les bibliothèques universitaires canadiennes concernant la diffusion en libre accès. Participation de 110 directeurs de revues savantes, responsables de bibliothèques universitaires canadiennes et chercheurs, à cette journée. [En savoir plus](http://www.seminaire2015.org/)
+  Le séminaire a permis d’améliorer le dialogue entre les revues savantes et les bibliothèques universitaires canadiennes concernant la diffusion en libre accès. Participation de 110 directeurs de revues savantes, responsables de bibliothèques universitaires canadiennes et chercheurs, à cette journée. <br><br>[En savoir plus](http://www.seminaire2015.org/)
 - ##### 18–20 novembre
   - Montréal, Canada
   - 7<sup>e</sup> Congrès des milieux documentaires du Québec
@@ -104,7 +104,7 @@ Liste des présentations données durant l’année
   - Montréal, Canada
   - Participation à l’émission *Les années-lumière* sur la Première chaîne de Radio Canada
   <br><br>
-  Science in French ou en anglais ? Participation de Tanja Niemann à une table ronde. [En savoir plus](http://ici.radio-canada.ca/emissions/les_annees_lumiere/2012-2013/chronique.asp?idChronique=401236)
+  Science in French ou en anglais ? Participation de Tanja Niemann à une table ronde. <br><br>[En savoir plus](http://ici.radio-canada.ca/emissions/les_annees_lumiere/2012-2013/chronique.asp?idChronique=401236)
 
 ---
 
