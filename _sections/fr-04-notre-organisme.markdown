@@ -4,114 +4,135 @@ ref: notre-organisme
 lang: fr
 order: 04
 ---
+{:#communications}
 ### Communications
 
-{:.text-lg}
+{:.text-lg .intro}
 Liste des présentations données durant l’année
 
+{:.text-xs .communications}
 #### 2015
-- 25 mai
+- ##### 25 mai
   - Rimouski, Canada
   - Organisation du colloque “Une plateforme de recherche et d’expérimentation pour l’édition ouverte”, Congrès de l’Acfas 2015
-  - Sous la direction de Vincent Larivière, directeur scientifique d’Érudit, le colloque a réuni une trentaine de chercheurs dans le domaine des sciences de l’information et des humanités numériques. [En savoir plus](https://apropos.erudit.org/fr/une-plateforme-de-recherche-et-dexperimentation-pour-ledition-ouverte/)
-- 29 mai
+  <br><br>
+  Sous la direction de Vincent Larivière, directeur scientifique d’Érudit, le colloque a réuni une trentaine de chercheurs dans le domaine des sciences de l’information et des humanités numériques. [En savoir plus](https://apropos.erudit.org/fr/une-plateforme-de-recherche-et-dexperimentation-pour-ledition-ouverte/)
+- ##### 29 mai
   - Ottawa, Canada
   - Participation au Congrès 2015 de la Fédération des sciences humaines
-  - Érudit a présenté son partenariat avec le RCDR à une trentaine de directeurs de revues savantes du Canada.
-- 24 juin
+  <br><br>
+  Érudit a présenté son partenariat avec le RCDR à une trentaine de directeurs de revues savantes du Canada.
+- ##### 24 juin
   - Londres, Royaume-Uni
   - Présentation du Partenariat Érudit-RCDR pour le libre accès dans le cadre de la Conférence annuelle LIBER
-  - Présentation du partenariat avec le RCDR à une cinquantaine de directeurs de bibliothèques universitaires européennes.
-- 11 au 14 août
+  <br><br>
+  Présentation du partenariat avec le RCDR à une cinquantaine de directeurs de bibliothèques universitaires européennes.
+- ##### 11 au 14 août
   - Vancouver, Canada
   - Présentation du renforcement de la collaboration Érudit- PKP, Conférence annuelle de PKP
-  - L’équipe de direction d’Érudit a participé à la Conférence annuelle 2015 du Public Knowledge Project (PKP) afin d’établir les bases de la collaboration entre les deux organismes.
-- 25 septembre
+  <br><br>
+  L’équipe de direction d’Érudit a participé à la Conférence annuelle 2015 du Public Knowledge Project (PKP) afin d’établir les bases de la collaboration entre les deux organismes.
+- ##### 25 septembre
   - Paris, France
   - Présentation du partenariat Érudit - RCDR dans le cadre de la Journée Couperin pour le libre accès
-  - Présentation du partenariat Érudit - RCDR à une centaine de directeurs de bibliothèques universitaires françaises.[En savoir plus](http://jao2015.sciencesconf.org/)
-- 20 octobre
+  <br><br>
+  Présentation du partenariat Érudit - RCDR à une centaine de directeurs de bibliothèques universitaires françaises.[En savoir plus](http://jao2015.sciencesconf.org/)
+- ##### 20 octobre
   - Paris, France
   - Co-organisation d’une table ronde sur les enjeux du libre accès en partenariat avec les bibliothèques de l’Université de Montréal
-  - La table ronde a permis de présenter différents points de vue autour de la diffusion en libre accès des résultats de la recherche. Participation d’environ 45 étudiants et chercheurs de l’Université de Montréal à cette table ronde. [En savoir plus](http://www.calendrier.umontreal.ca/?com=detail&eID=634325)
-- 20–22 octobre
+  <br><br>
+  La table ronde a permis de présenter différents points de vue autour de la diffusion en libre accès des résultats de la recherche. Participation d’environ 45 étudiants et chercheurs de l’Université de Montréal à cette table ronde. [En savoir plus](http://www.calendrier.umontreal.ca/?com=detail&eID=634325)
+- ##### 20–22 octobre
   - Ottawa, Canada
   - Présentation de la collaboration Érudit-PKP dans le cadre de l’Assemblée annuelle générale 2015 de l’ABRC-CARL
-  - Présentation des avancées de la collaboration entre Érudit et le Public Knowledge project (PKP) aux membres de l’Association des bibliothèques de recherche du Canada (CARL-ABRC). [En savoir plus](http://www.carl-abrc.ca/fr/a-propos-de-labrc/membres-2/reunions-des-membres/)
-- 22 octobre
+  <br><br>
+  Présentation des avancées de la collaboration entre Érudit et le Public Knowledge project (PKP) aux membres de l’Association des bibliothèques de recherche du Canada (CARL-ABRC). [En savoir plus](http://www.carl-abrc.ca/fr/a-propos-de-labrc/membres-2/reunions-des-membres/)
+- ##### 22 octobre
   - Québec, Canada
   - Présentation du Partenariat Érudit-RCDR à l’Université Laval dans le cadre de la Semaine internationale pour le libre accès
-  - Présentation du partenariat avec le RCDR à une trentaine de professeurs et chercheurs de l’Université Laval. [En savoir plus](http://www.bibl.ulaval.ca/semaine-internationale-du-libre-acces-2014)
-- 22–23 octobre
+  <br><br>
+  Présentation du partenariat avec le RCDR à une trentaine de professeurs et chercheurs de l’Université Laval. [En savoir plus](http://www.bibl.ulaval.ca/semaine-internationale-du-libre-acces-2014)
+- ##### 22–23 octobre
   - Québec, Canada
   - Atelier 2015 du Fonds des initiatives scientifiques majeures
-  - Participation à l’atelier de travail sur la planification stratégique, la gestion du risque et la gestion de l’accès aux utilisateurs.
-- 6 novembre
+  <br><br>
+  Participation à l’atelier de travail sur la planification stratégique, la gestion du risque et la gestion de l’accès aux utilisateurs.
+- ##### 6 novembre
   - Charleston, États-Unis
   - Présentation du Partenariat Érudit-RCDR à la Charleston Conference
-  - Présentation du partenariat avec le RCDR à une cinquantaine de directrices et directeurs de bibliothèques universitaires américaines. [En savoir plus](https://2015charlestonconference.sched.org/speaker/joanie.lavoie)
-- 16 novembre
+  <br><br>
+  Présentation du partenariat avec le RCDR à une cinquantaine de directrices et directeurs de bibliothèques universitaires américaines. [En savoir plus](https://2015charlestonconference.sched.org/speaker/joanie.lavoie)
+- ##### 16 novembre
   - Montréal, Canada
   - Participation à l’organisation du Bootcamp de l’Association canadienne des revues savantes canadiennes
-  - L’équipe des communications d’Érudit a participé à l’organisation de la journée « Bootcamp » de l’Association canadienne des revues savantes (ACRS-CALJ). Cette journée a permis l’actualisation des connaissances des 30 directrices et directeurs de revues savantes canadiennes présents à cette journée. [En savoir plus](http://www.calj-acrs.ca/sites/default/files/3rd-annualcalj-bootcamp-2015-en.pdf)
-- 17 novembre
+  <br><br>
+  L’équipe des communications d’Érudit a participé à l’organisation de la journée « Bootcamp » de l’Association canadienne des revues savantes (ACRS-CALJ). Cette journée a permis l’actualisation des connaissances des 30 directrices et directeurs de revues savantes canadiennes présents à cette journée. [En savoir plus](http://www.calj-acrs.ca/sites/default/files/3rd-annualcalj-bootcamp-2015-en.pdf)
+- ##### 17 novembre
   - Montréal, Canada
   - Organisation du séminaire *Nouveaux modes de diffusion des connaissances et libre accès au Canada* en collaboration avec le RCDR
-  - Le séminaire a permis d’améliorer le dialogue entre les revues savantes et les bibliothèques universitaires canadiennes concernant la diffusion en libre accès. Participation de 110 directeurs de revues savantes, responsables de bibliothèques universitaires canadiennes et chercheurs, à cette journée. [En savoir plus](http://www.seminaire2015.org/)
-- 18–20 novembre
+  <br><br>
+  Le séminaire a permis d’améliorer le dialogue entre les revues savantes et les bibliothèques universitaires canadiennes concernant la diffusion en libre accès. Participation de 110 directeurs de revues savantes, responsables de bibliothèques universitaires canadiennes et chercheurs, à cette journée. [En savoir plus](http://www.seminaire2015.org/)
+- ##### 18–20 novembre
   - Montréal, Canada
   - 7<sup>e</sup> Congrès des milieux documentaires du Québec
-  - Ce congrès a permis à Érudit de présenter l’ensemble de ses nouveautés aux bibliothécaires québécois présents.
-- 26–27 novembre
+  <br><br>
+  Ce congrès a permis à Érudit de présenter l’ensemble de ses nouveautés aux bibliothécaires québécois présents.
+- ##### 26–27 novembre
   - Toulouse, France
   - Présentation d’Érudit dans le cadre du séminaire *Nouvelles Collaborations scientifiques autour des infrastructures du numérique*
-  - Vincent Larivière, directeur scientifique d’Érudit a pu présenter la plateforme Érudit aux chercheurs français dans le cadre de ce séminaire.
-- 4 décembre
+  <br><br>
+  Vincent Larivière, directeur scientifique d’Érudit a pu présenter la plateforme Érudit aux chercheurs français dans le cadre de ce séminaire.
+- ##### 4 décembre
   - San Francisco, États-Unis
   - Rencontre préliminaire de la fondation Coko
-  - L’équipe de direction d’Érudit a rencontré les membres de la Collaborative Knowledge Foundation (Coko) afin d’établir des liens de collaboration durables en vue de la création de nouveaux outils d’édition numérique.
+  <br><br>
+  L’équipe de direction d’Érudit a rencontré les membres de la Collaborative Knowledge Foundation (Coko) afin d’établir des liens de collaboration durables en vue de la création de nouveaux outils d’édition numérique.
 
+{:.text-xs .communications}
 #### 2016
-- 19 janvier
+- ##### 19 janvier
   - Whistler, Canada
   - Participation à la journée de recherche INKE 2016
-  - Érudit a participé à la journée de recherche sur les humanités numériques organisée par INKE.
-- 26 janvier
+  <br><br>
+  Érudit a participé à la journée de recherche sur les humanités numériques organisée par INKE.
+- ##### 26 janvier
   - Montréal, Canada
   - Rencontre officielle de la direction scientifique du FRQSC
-  - Le directeur scientifique d’Érudit a présenté les orientations du Consortium lors de la rencontre officielle avec Mme Louise Poissant, directrice scientifique du Fonds de recherche du Québec – Société et Culture, organisée le 26 janvier à l’Université de Montréal.
-- 20 mars
+  <br><br>
+  Le directeur scientifique d’Érudit a présenté les orientations du Consortium lors de la rencontre officielle avec Mme Louise Poissant, directrice scientifique du Fonds de recherche du Québec – Société et Culture, organisée le 26 janvier à l’Université de Montréal.
+- ##### 20 mars
   - Montréal, Canada
   - Participation à l’émission *Les années-lumière* sur la Première chaîne de Radio Canada
-  - Science in French ou en anglais ? Participation de Tanja Niemann à une table ronde. [En savoir plus](http://ici.radio-canada.ca/emissions/les_annees_lumiere/2012-2013/chronique.asp?idChronique=401236)
+  <br><br>
+  Science in French ou en anglais ? Participation de Tanja Niemann à une table ronde. [En savoir plus](http://ici.radio-canada.ca/emissions/les_annees_lumiere/2012-2013/chronique.asp?idChronique=401236)
 
 ---
 
 {:#enjeux-diffusion}
 ### Série «&nbsp;Enjeux de la diffusion savante&nbsp;»
 
-{:.text-lg}
+{:.text-lg .intro}
 Érudit a produit et diffusée dans le courant de l’année une série de vidéos afin de vulgariser les grands enjeux touchant la publication scientifique actuellement&nbsp;:
 
-- <iframe src="https://player.vimeo.com/video/130785289" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+1. <iframe src="https://player.vimeo.com/video/130785289" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   - La fouille de textes et la visualisation de données
   - Dominic Forest
-- <iframe src="https://player.vimeo.com/video/153781162" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+2. <iframe src="https://player.vimeo.com/video/153781162" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   - La grande conversation scientifique
   - Jean-Claude Guédon
-- <iframe src="https://player.vimeo.com/video/133993725" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+3. <iframe src="https://player.vimeo.com/video/133993725" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   - La dérive des facteurs d’impact pour les revues savantes
   - Yves Gingras
-- <iframe src="https://player.vimeo.com/video/133046295" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+4. <iframe src="https://player.vimeo.com/video/133046295" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   - L’importance des chercheurs dans la diffusion en libre accès
   - Marc Couture
-- <iframe src="https://player.vimeo.com/video/137296527" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+5. <iframe src="https://player.vimeo.com/video/137296527" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   - Les défis d’un dépôt institutionnel numérique
   - Magda Fusaro
-- <iframe src="https://player.vimeo.com/video/184403161" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+6. <iframe src="https://player.vimeo.com/video/184403161" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   - L’oligopole des grands éditeurs commerciaux
   - Vincent Larivière
-- <iframe src="https://player.vimeo.com/video/118922900" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+7. <iframe src="https://player.vimeo.com/video/118922900" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   - Le rôle des presses universitaires à l’heure du numérique
   - Benoît Melançon
 

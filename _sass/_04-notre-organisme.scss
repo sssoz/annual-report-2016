@@ -1,9 +1,65 @@
 #notre-organisme {
 
-  h4 {
+  h3 {
     color: $coral;
-    border-top: 1px solid $coral;
-    padding-top: 0.5em;
+    @extend .col-xs-12;
+    @extend .text-sm;
+  }
+
+  h4 {
+    @extend .col-xs-12;
+  }
+
+  a {
+    color: #000;
+  }
+
+  .intro {
+    color: $coral;
+    @extend .col-xs-9;
+  }
+
+  .communications + ul {
+    margin-bottom: 35px;
+    @extend .col-xs-12;
+
+    > li {
+
+      h5 {
+        color: #000;
+        @extend .col-md-3;
+        padding: 15px 0;
+        border-top: 1px solid $dark-grey;
+      }
+
+      > ul {
+
+        li {
+          color: $dark-grey;
+          @extend .text-xs;
+          border-top: 1px solid $dark-grey;
+
+          &:nth-child(1) {
+            @extend .col-md-3;
+            padding: 15px 0;
+          }
+
+          &:nth-child(2) {
+            @extend .col-md-6;
+            padding: 15px 0;
+          }
+
+        }
+
+      }
+
+    }
+
+  }
+
+  #communications + p,
+  #enjeux-diffusion + p {
+    @include border-top($coral);
   }
 
 }
