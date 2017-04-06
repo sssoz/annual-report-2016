@@ -50,11 +50,11 @@ Voici deux présentations qui ont particulièrement attiré notre attention :
 
 1. #### *Les transformations de l’édition savante à l’ère numérique*
   - Vincent Larivière, prof. agrégé à l’École de bibliothéconomie et des sciences de l’information de l’UdeM, titulaire de la Chaire de recherche du Canada sur les transformations de la communication savante et directeur scientifique d’Érudit, a traité des changements auxquels fait face l’édition savante à l’ère numérique. Malgré la diversification des lieux de publication, l’anglicisation, le ralentissement de l’obsolescence des articles et la concentration de l’édition entre les mains de quelques grands éditeurs commerciaux, les revues savantes continuent à jouer un rôle non seulement central, mais crucial dans l’écosystème scientifique. Dans ce contexte, la diffusion en libre accès des résultats de la recherche devient un élément clé pour optimiser l’impact de l’édition savante sur la recherche.
-  - -> [Compte rendu de sa présentation](){:target="_blank"}
+  - -> [Compte rendu de sa présentation](http://www.seminaire2015.org/new-page-3/){:target="_blank"}
 
 2. #### *Étude sur une coopérative d’édition savante en libre accès*
   - John Willinsky, prof. à la Graduate School of Education de l’Université de Stanford, fondateur et directeur de Public Knowledge Project (PKP), a traité des différents modèles d’affaires permettant la diffusion en libre accès des publications scientifiques. La diffusion selon la voie verte (auto-archivage des articles) n’est pas pleinement adaptée aux sciences humaines. L’accès libre différé repose sur l’exclusion de certains lecteurs. Le modèle du paiement par l’auteur ne libère pas du monopole des grands éditeurs commerciaux. Face à ces constats, un modèle d’affaires coopératif pour soutenir la diffusion en libre accès est selon M. Willinsky la solution optimale, tant du point de vue du capital financier nécessaire, de l’équité envers les différents acteurs de la recherche, de la transparence de la gestion, que de la qualité du patrimoine scientifique que nous créons.
-  - -> [Compte rendu de sa présentation](){:target="_blank"}
+  - -> [Compte rendu de sa présentation](http://www.seminaire2015.org/tude-sur-une-cooprative-ddition-savante-en-libre-accs/){:target="_blank"}
 
 ---
 
@@ -68,4 +68,4 @@ Toutes les présentations du séminaire (enregistrements et résumés) sont disp
 Ces communications nous auront permis d’affirmer le rôle de premier plan que joue Érudit au sein de la communauté de la recherche en sciences humaines et sociales et auront conforté notre décision de poursuivre et de renforcer le modèle partenarial en soutien au libre accès dans les années à venir.
 
 {:.text-xs .conclusion}
-Vous pouvez en découvrir plus sur le Partenariat à l’adresse <br><br>-> [erudit.org/partenariat/OA](){:target="_blank"}
+Vous pouvez en découvrir plus sur le Partenariat à l’adresse <br><br>-> [erudit.org/partenariat/OA](https://www.erudit.org/partenariat/OA){:target="_blank"}
