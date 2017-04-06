@@ -6,6 +6,7 @@
   height: 85px;
   width: 100%;
   position: fixed;
+  z-index: 10;
 }
 
 .site-title {
@@ -95,7 +96,7 @@ section {
     @extend .text-lg;
   }
 
-  h3, h4, h5 {
+  h3 {
     @extend .col-xs-12;
   }
 

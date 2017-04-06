@@ -215,6 +215,8 @@
 
           dl {
             @extend .row;
+            padding-top: 20px;
+            clear: both;
 
             dt {
               line-height: 1;

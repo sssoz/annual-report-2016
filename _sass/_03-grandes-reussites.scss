@@ -1,10 +1,57 @@
 #grandes-reussites {
   counter-reset: achievements;
 
-  h3::before {
-    counter-increment: achievements;
-    content: counter(achievements);
-    display: block;
+  h2 {
+    margin: 0 0 30px 0;
+  }
+
+  h3 {
+    @extend .text-lg;
+
+    &::before {
+      counter-increment: achievements;
+      content: counter(achievements);
+      display: block;
+      @extend .text-xl;
+    }
+
+  }
+
+  a {
+    color: #fff;
+  }
+
+  .intro {
+    @extend .col-sm-10;
+    @extend .col-md-8;
+    clear: both;
+  }
+
+  .conclusion {
+    @extend .col-sm-8;
+    @extend .col-md-6;
+    clear: both;
+    margin-bottom: 20px;
+  }
+
+  ol {
+
+    h4 {
+      @extend .text-sm;
+      margin-bottom: 30px;
+    }
+
+    > li {
+      @extend .col-sm-6;
+      margin-top: 40px;
+      padding-right: 15%;
+
+      li {
+        margin-bottom: 15px;
+      }
+
+    }
+
   }
 
 }
