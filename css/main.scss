@@ -47,6 +47,15 @@ $on-laptop:        800px;
   }
 }
 
+// Border mixin that won't break out of Bootstrap's grid
+@mixin border-top($colour) {
+  &:before {
+    border-top: 1px solid $colour;
+    display: block;
+    content: " ";
+  }
+}
+
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
