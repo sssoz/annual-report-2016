@@ -6,4 +6,29 @@
     margin-top: 0.5em;
   }
 
+  h3 {
+    @extend .col-sm-6;
+    @extend .col-md-4;
+  }
+
+  #universites-associees,
+  #autres-partenaires {
+    @extend .col-sm-6;
+    @extend .col-md-8;
+
+    li {
+      margin-bottom: 40px;
+    }
+
+  }
+
+  #autres-partenaires {
+    @extend .row;
+
+    li {
+      @extend .col-sm-4;
+    }
+
+  }
+
 }
