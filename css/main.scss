@@ -53,6 +53,16 @@ $on-laptop:        800px;
     border-top: 1px solid $colour;
     display: block;
     content: " ";
+    padding-bottom: 20px;
+  }
+}
+
+@mixin border-bottom($colour) {
+  &:after {
+    border-bottom: 1px solid $colour;
+    display: block;
+    content: " ";
+    padding-top: 20px;
   }
 }
 

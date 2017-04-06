@@ -4,9 +4,11 @@
     color: $coral;
     @extend .col-xs-12;
     @extend .text-sm;
+    @include border-bottom($coral);
   }
 
   h4 {
+    color: $coral;
     @extend .col-xs-12;
   }
 
@@ -15,6 +17,7 @@
   }
 
   .intro {
+    margin-top: 30px;
     color: $coral;
     @extend .col-xs-9;
   }
@@ -57,9 +60,91 @@
 
   }
 
-  #communications + p,
-  #enjeux-diffusion + p {
-    @include border-top($coral);
+  #videos {
+
+    iframe {
+      margin-bottom: 15px;
+    }
+
+    > li {
+      @extend .col-sm-6;
+      @extend .col-md-4;
+      margin-bottom: 35px;
+
+      li {
+
+        &:nth-child(1) {
+          @extend .text-sm;
+        }
+
+        &:nth-child(2) {
+          color: $dark-grey;
+          @extend .text-xs;
+        }
+
+      }
+
+    }
+
   }
+
+  // Équipe et gouvernance section
+  .roles {
+    @extend .col-xs-12;
+    margin-top: 30px;
+    margin-bottom: 45px;
+
+    dt:not(:first-of-type) {
+      margin-top: 30px;
+    }
+
+    dd {
+      color: $dark-grey;
+      -webkit-column-break-inside: avoid;
+      page-break-inside: avoid;
+      break-inside: avoid-column;
+      display: table;
+    }
+
+  }
+
+  #notre-equipe,
+  #conseil-admin {
+    @extend .text-sm;
+    @include content-columns(3);
+  }
+
+  #conseil-admin {
+
+    dd {
+      @extend .text-xs;
+    }
+
+  }
+
+  #observateurs-membres {
+
+    h5 {
+      @extend .text-sm;
+    }
+
+    > li {
+      @extend .col-sm-6;
+      @extend .col-md-4;
+      @extend .text-xs;
+
+      ul > li {
+        margin-bottom: 20px;
+
+        li {
+          color: $dark-grey;
+        }
+
+      }
+
+    }
+
+  }
+
 
 }

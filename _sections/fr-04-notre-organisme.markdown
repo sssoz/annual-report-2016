@@ -114,25 +114,26 @@ Liste des présentations données durant l’année
 {:.text-lg .intro}
 Érudit a produit et diffusée dans le courant de l’année une série de vidéos afin de vulgariser les grands enjeux touchant la publication scientifique actuellement&nbsp;:
 
-1. <iframe src="https://player.vimeo.com/video/130785289" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+{:#videos}
+1. <iframe src="https://player.vimeo.com/video/130785289" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   - La fouille de textes et la visualisation de données
   - Dominic Forest
-2. <iframe src="https://player.vimeo.com/video/153781162" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+2. <iframe src="https://player.vimeo.com/video/153781162" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   - La grande conversation scientifique
   - Jean-Claude Guédon
-3. <iframe src="https://player.vimeo.com/video/133993725" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+3. <iframe src="https://player.vimeo.com/video/133993725" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   - La dérive des facteurs d’impact pour les revues savantes
   - Yves Gingras
-4. <iframe src="https://player.vimeo.com/video/133046295" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+4. <iframe src="https://player.vimeo.com/video/133046295" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   - L’importance des chercheurs dans la diffusion en libre accès
   - Marc Couture
-5. <iframe src="https://player.vimeo.com/video/137296527" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+5. <iframe src="https://player.vimeo.com/video/137296527" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   - Les défis d’un dépôt institutionnel numérique
   - Magda Fusaro
-6. <iframe src="https://player.vimeo.com/video/184403161" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+6. <iframe src="https://player.vimeo.com/video/184403161" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   - L’oligopole des grands éditeurs commerciaux
   - Vincent Larivière
-7. <iframe src="https://player.vimeo.com/video/118922900" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+7. <iframe src="https://player.vimeo.com/video/118922900" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   - Le rôle des presses universitaires à l’heure du numérique
   - Benoît Melançon
 
@@ -141,11 +142,13 @@ Liste des présentations données durant l’année
 {:#equipe-gouvernance}
 ### Équipe et gouvernance
 
+{:.text-lg}
 #### Notre équipe
 
-{:.text-sm}
+{:.text-sm .intro}
 Notre équipe est composée de professionnels du milieu de l’édition ou des bibliothèques, tous passionnés par les nouvelles possibilités offertes par le numérique pour la recherche et la création&nbsp;!
 
+{:.roles #notre-equipe}
 Directrice générale
 : Tanja Niemann
 
@@ -178,11 +181,13 @@ Assistantes techniques
 : Gabrielle Mathieu
 : Julie Tremblay-Devirieux
 
+{:.text-lg}
 #### Notre conseil d’administration
 
-{:.text-sm}
+{:.text-sm .intro}
 Le conseil d’administration d’Érudit est composé de personnalités du monde de la recherche, des bibliothèques universitaires et de l’édition.
 
+{:.roles #conseil-admin}
 Président
 : Frédéric Bouchard
 : Vice-recteur associé à la recherche, à la découverte, à la création et à l’innovation, Université de Montréal
@@ -195,27 +200,20 @@ Secrétaire-trésorière
 : Lynda Gadoury
 : Directrice générale des bibliothèques, Université du Québec à Montréal
 
-##### Observateurs
-
-Marie-Thérèse Duquette
-: Directrice des programmes et du développement des partenariats, Fonds de recherche du Québec – Société et culture (FRQSC)
-
-Vincent Larivière
-: Professeur agrégé, Université de Montréal, directeur scientifique, Érudit
-
-Brent Roe
-: Représentant du RCDR, Bibliothécaire en chef, Université Laurentienne
-
-##### Membres
-
-Marie Audette
-: Vice-rectrice adjointe, Recherche et création, Université Laval
-
-Richard Dumont
-: Directeur général de la Direction des bibliothèques, Université de Montréal
-
-Benoît Melançon
-: Professeur titulaire, Département des littératures de langue française, Université de Montréal, directeur scientifique, Presses de l’Université de Montréal
-
-Philippe Maubant
-: Directeur de la revue Phronesis et professeur titulaire, Université de Sherbrooke
+{:#observateurs-membres}
+- ##### Observateurs
+  - Marie-Thérèse Duquette
+    - Directrice des programmes et du développement des partenariats, Fonds de recherche du Québec – Société et culture (FRQSC)
+  - Vincent Larivière
+    - Professeur agrégé, Université de Montréal, directeur scientifique, Érudit
+  - Brent Roe
+    - Représentant du RCDR, Bibliothécaire en chef, Université Laurentienne
+- ##### Membres
+  - Marie Audette
+    - Vice-rectrice adjointe, Recherche et création, Université Laval
+  - Richard Dumont
+    - Directeur général de la Direction des bibliothèques, Université de Montréal
+  - Benoît Melançon
+    - Professeur titulaire, Département des littératures de langue française, Université de Montréal, directeur scientifique, Presses de l’Université de Montréal
+  - Philippe Maubant
+    - Directeur de la revue Phronesis et professeur titulaire, Université de Sherbrooke
