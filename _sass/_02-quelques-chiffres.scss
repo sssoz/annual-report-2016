@@ -31,7 +31,6 @@
         @extend .text-xl;
         @extend .col-md-7;
         padding-left: 0;
-        line-height: 1;
       }
 
       &:nth-child(even) {
@@ -103,10 +102,6 @@
   // Services sub-section
   .service {
 
-    h4 {
-      margin-top: 20px;
-    }
-
     > li {
       border-top: 1px solid $coral;
 
@@ -126,6 +121,7 @@
         &:nth-child(1),
         &:nth-child(2) {
           padding-right: 10%;
+          padding-top: 20px;
           @extend .text-xl;
         }
 
@@ -182,6 +178,15 @@
 
       }
 
+    }
+
+    &#commercialisation,
+    &#autres {
+
+      h4 {
+        padding-top: 20px;
+      }
+      
     }
 
     &#commercialisation {
