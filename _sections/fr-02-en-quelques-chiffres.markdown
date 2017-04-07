@@ -135,16 +135,16 @@ Nous accompagnons les éditeurs scientifiques et culturels dans la diffusion num
   - 772&nbsp;100$
     - en revenus redistribués aux revues dans l’année fiscale 2015-2016.
   - ##### 4 ententes majeures
-    RCDR
+    [RCDR](http://www.crkn-rcdr.ca/){:target="_blank"}
     : 53 bibliothèques universitaires canadiennes membres du Réseau Canadien de documentation pour la recherche (RCDR) ont poursuivi leur entente de partenariat en 2015 avec Érudit, afin de soutenir les revues savantes canadiennes et la diffusion en libre accès. 
 
-    CCSR
+    [CCSR](http://www.ccsr.qc.ca/){:target="_blank"}
     : 48 bibliothèques collégiales et 23 commissions scolaires au Québec membres du Centre collégial des services regroupés ont poursuivi leur entente en 2015 avec Érudit pour l’accès à l’ensemble du corpus. 
 
-    Couperin
+    [Couperin](http://www.couperin.org/){:target="_blank"}
     : Après une première entente signée en 2014 avec le consortium des bibliothèques universitaires françaises Couperin, Érudit a travaillé à développer le nombre d’institutions abonnées à son catalogue en France.
 
-    CIFNAL
+    [CIFNAL](https://www.crl.edu/programs/cifnal){:target="_blank"}
     : Grâce à l’entente conclue avec le consortium CIFNAL (relié au Center for Research Libraries), 6  institutions américaines ont souscrit à une des collections d’Érudit : Harvard, Yale, Duke, University of Washington, University of Vermont et la New York Public Library.
 
 ---
