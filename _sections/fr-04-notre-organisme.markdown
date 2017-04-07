@@ -148,7 +148,7 @@ Liste des présentations données durant l’année
 {:.text-sm .intro}
 Notre équipe est composée de professionnels du milieu de l’édition ou des bibliothèques, tous passionnés par les nouvelles possibilités offertes par le numérique pour la recherche et la création&nbsp;!
 
-{:.roles #notre-equipe}
+{:.roles .notre-equipe}
 Directrice générale
 : Tanja Niemann
 
@@ -161,6 +161,9 @@ Responsable des technologies
 Chargé d’édition numérique
 : Hocine Chehab
 
+&nbsp;
+
+{:.roles .notre-equipe}
 Chargée des partenariats
 : Émilie Chouinard
 
@@ -171,6 +174,9 @@ Développeurs
 : David Cormier
 : Sophy Ouch
 
+&nbsp;
+
+{:.roles .notre-equipe}
 Administrateur système
 : Philippe Dagenais
 
@@ -187,15 +193,21 @@ Assistantes techniques
 {:.text-sm .intro}
 Le conseil d’administration d’Érudit est composé de personnalités du monde de la recherche, des bibliothèques universitaires et de l’édition.
 
-{:.roles #conseil-admin}
+{:.roles .conseil-admin}
 Président
 : Frédéric Bouchard
 : Vice-recteur associé à la recherche, à la découverte, à la création et à l’innovation, Université de Montréal
 
+&nbsp;
+
+{:.roles .conseil-admin}
 Vice-présidente
 : Loubna Ghaouti
 : Directrice de la Bibliothèque, Université Laval
 
+&nbsp;
+
+{:.roles .conseil-admin}
 Secrétaire-trésorière
 : Lynda Gadoury
 : Directrice générale des bibliothèques, Université du Québec à Montréal

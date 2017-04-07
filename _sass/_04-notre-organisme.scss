@@ -108,13 +108,13 @@
 
   }
 
-  #notre-equipe,
-  #conseil-admin {
+  .notre-equipe,
+  .conseil-admin {
     @extend .text-sm;
-    @include content-columns(3);
+    @extend .col-md-4;
   }
 
-  #conseil-admin {
+  .conseil-admin {
 
     dd {
       @extend .text-xs;
@@ -123,6 +123,7 @@
   }
 
   #observateurs-membres {
+    clear: both;
 
     h5 {
       @extend .text-sm;
