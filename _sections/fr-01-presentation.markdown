@@ -44,7 +44,7 @@ De grandes et belles choses sont encore à venir pour le Consortium Érudit et, 
 
 {:.portrait}
 ![Frédéric Bouchard](img/bouchardf.png)
-{:.text-sm}Frédéric Bouchard
+Frédéric Bouchard
 : {:.text-xs}Président du Consortium Érudit
 
 ---
@@ -61,5 +61,5 @@ Par ailleurs, l’équipe d’Érudit s’est encore agrandie. Nous avons mis en
 
 {:.portrait}
 ![Tanja Niemann](img/niemannt.png)
-{:.text-sm}Tanja Niemann
+Tanja Niemann
 : {:.text-xs}Directrice d’Érudit

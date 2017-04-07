@@ -41,6 +41,11 @@
   .portrait {
     float: right;
     @extend .col-sm-4;
+
+    dt:nth-child(2) {
+      @extend .text-sm;
+    }
+
   }
 
 }
