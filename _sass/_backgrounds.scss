@@ -1,5 +1,5 @@
 #couverture {
-  background-image: url("../img/cover-page.png");
+  background-image: url("../img/bg-cover-page.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -16,7 +16,7 @@
   color: $coral;
 
   &:before {
-    background-image: url("../img/presentation-bottom.png");
+    background-image: url("../img/bg-presentation-bottom.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right bottom;
@@ -27,7 +27,7 @@
   }
 
   &:after {
-    background-image: url("../img/grandes-reussites-top.png");
+    background-image: url("../img/bg-grandes-reussites-top.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;
@@ -49,7 +49,7 @@
   color: #000;
 
   &:before {
-    background-image: url("../img/grandes-reussites-bottom.png");
+    background-image: url("../img/bg-grandes-reussites-bottom.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;
@@ -60,7 +60,7 @@
   }
 
   &:after {
-    background-image: url("../img/bilan-financier-top.png");
+    background-image: url("../img/bg-bilan-financier-top.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;
@@ -83,7 +83,7 @@
   color: $coral;
 
   &:before {
-    background-image: url("../img/bilan-financier-bottom.png");
+    background-image: url("../img/bg-bilan-financier-bottom.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;
@@ -95,7 +95,7 @@
   }
 
   &:after {
-    background-image: url("../img/footer-top.png");
+    background-image: url("../img/bg-footer-top.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: bottom center;
