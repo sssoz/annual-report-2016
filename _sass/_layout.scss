@@ -14,10 +14,7 @@
     transform: translateX(-50%);
     left: 50%;
     position: absolute;
-  }
-
-  a {
-    color: #000;
+    color: #fff;
   }
 
   .navbar-header {
@@ -40,6 +37,10 @@
     transition: all 0.25s ease-in;
     @include box-shadow(0 3px 5px rgba(0, 0, 0, .1));
 
+    h1 {
+      color: #000;
+    }
+
     path, rect {
       fill: $coral;
     }
@@ -54,6 +55,7 @@
 
   .switch-lang a {
     display: inline-block ;
+    color: #000;
   }
 
   .toc-menu {
