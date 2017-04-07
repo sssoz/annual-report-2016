@@ -12,6 +12,9 @@ title:
 subtitle:
   fr: "Rapport annuel 2015–2016"
   en: "Annual report 2015–2016"
+tagline:
+    fr: "Cultivez <br/>votre savoir."
+    en: "Cultivate <br/>your knowledge."
 email: info@erudit.org
 description:
   fr: La mission d’Érudit est d’assurer la diffusion et la promotion des savoirs et de permettre l’accès aux corpus à des fins de recherche. Érudit favorise une diffusion ouverte.
@@ -22,10 +25,26 @@ index:
 toc:
   fr: "Table des matières"
   en: "Table of Contents"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.erudit.org/rapport/2016" # the base hostname & protocol for your site
+about:
+  fr: "À propos d’Érudit"
+  en: "About Érudit"
+about_url:
+  fr: "https://apropos.erudit.org/fr/"
+  en: "https://apropos.erudit.org/en/"
+newsletter:
+  fr: "Inscrivez-vous à notre infolettre"
+  en: "Subscribe to our newsletter"
+newsletter_url:
+  fr: "//erudit.us3.list-manage.com/subscribe/post?u=b865f2a1d7079a1246f02d4c5&amp;id=0948773783"
+  en: "//erudit.us3.list-manage.com/subscribe/post?u=b865f2a1d7079a1246f02d4c5&amp;id=baa73f54fd"
+subscribe:
+  fr: "S’inscrire"
+  en: "Subscribe"
+
+url: "https://www.erudit.org/rapport/2016"
 twitter_username: eruditorg
 github_username:  erudit
+facebook_username: erudit.org
 permalink: pretty
 collections:
   - sections

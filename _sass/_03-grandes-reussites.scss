@@ -7,6 +7,8 @@
 
   h3 {
     @extend .text-lg;
+    @extend .col-sm-10;
+    @extend .col-md-8;
 
     &::before {
       counter-increment: achievements;

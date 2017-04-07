@@ -94,4 +94,20 @@
     margin-top: -300px;
   }
 
+  &:after {
+    background-image: url("../img/footer-top.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom center;
+    width: 100%;
+    height: 600px;
+    content: " ";
+    display: block;
+  }
+
+}
+
+#footer {
+  background-color: $coral;
+  color: #fff;
 }

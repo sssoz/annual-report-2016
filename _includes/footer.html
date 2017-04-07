@@ -1,30 +1,47 @@
-<footer class="site-footer">
+<footer id="footer">
 
   <div class="container">
 
-    <h2 class="footer-heading">{{ site.title[page.lang] }}</h2>
+    <div class="row">
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
+      <div class="col-sm-6">
+        <h2 class="text-lg">{{ site.tagline[page.lang] }}</h2>
       </div>
 
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
+      <div class="col-sm-6">
 
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
+        <div class="row">
+
+          <ul class="text-sm col-sm-6">
+            <li>
+              <a href="{{ site.about_url[page.lang] }}">{{ site.about[page.lang] }}</a>
+            </li>
+            <li>
+              <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+            </li>
+          </ul>
+
+          <ul class="text-sm col-sm-6">
+            <li>
+              <a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a>
+            </li>
+            <li>
+              <a href="https://www.facebook.com/{{ site.facebook_username }}">Facebook</a>
+            </li>
+            <li>
+              <a href="https://github.com/{{ site.github_username }}">Github</a>
+            </li>
+          </ul>
+        </div>
+
+        <form action="{{ site.newsletter_url[page.lang] }}" method="post" id="mc-embedded-subscribe-form" class="newsletter-form" name="mc-embedded-subscribe-form" target="_blank">
+          <div aria-hidden="true" class="hidden"><input type="text" name="{{ MAILCHIMP_UUID }}" tabindex="-1" value=""></div>
+          <label for="mce-EMAIL" class="text-xs">{{ site.newsletter[page.lang] }}</label>
+          <div>
+            <input type="email" value="" name="EMAIL" required id="mce-EMAIL" placeholder="{{ site.email[page.lang] }}"><input type="submit" value="{{ site.subscribe[page.lang] }}" name="subscribe" id="mc-embedded-subscribe">
+          </div>
+        </form>
+
       </div>
 
     </div>
