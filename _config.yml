@@ -48,12 +48,12 @@ subscribe:
 
 # Social media + contact
 email: info@erudit.org
-url: "https://www.erudit.org/rapport/2016"
 twitter_username: eruditorg
 github_username:  erudit
 facebook_username: erudit.org
 
 # Site settings
+url: "https://www.erudit.org/rapport/2016"
 permalink: pretty
 collections:
   - sections
