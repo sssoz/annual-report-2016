@@ -9,6 +9,18 @@ header .navbar {
 
   h1 {
     margin: 0;
+    font-size: 16px;
+    line-height: 55px;
+    transform: translateX(-50%);
+    left: 50%;
+    position: absolute;
+  }
+
+  a {
+    color: #000;
+  }
+
+  .navbar-header {
 
     a {
       margin-top: 10px;
@@ -20,10 +32,6 @@ header .navbar {
       fill: #fff;
     }
 
-  }
-
-  a {
-    color: #000;
   }
 
   &.affix {
