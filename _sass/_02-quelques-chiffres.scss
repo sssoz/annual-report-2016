@@ -36,14 +36,25 @@
 
       &:nth-child(odd) {
         @extend .text-xl;
-        @extend .col-md-7;
+        @extend .col-sm-7;
         padding-left: 0;
+
+        @media (max-width: $screen-xs-max) {
+          padding-bottom: 10px;
+        }
+
       }
 
       &:nth-child(even) {
         @extend .text-sm;
-        @extend .col-md-5;
+        @extend .col-sm-5;
         padding-left: 0;
+
+        @media (max-width: $screen-xs-max) {
+          border: 0;
+          padding-top: 0;
+        }
+
       }
 
       > ul {
@@ -89,11 +100,18 @@
 
            &:nth-child(1) {
              @extend .col-md-4;
+             padding-left: 0;
            }
 
            &:nth-child(2) {
              @extend .col-md-5;
              margin-bottom: 20px;
+             padding-left: 0;
+
+             @media (max-width: $screen-sm-max) {
+               margin-top: 15px;
+             }
+
            }
 
          }
@@ -112,6 +130,10 @@
     > li {
       border-top: 1px solid $coral;
 
+      @media (max-width: $screen-xs-max) {
+        clear: both;
+      }
+
       ul {
         @extend .text-xs;
         clear: both;
@@ -123,7 +145,7 @@
     &#diffusion {
 
       > li {
-        @extend .col-md-6;
+        @extend .col-sm-6;
 
         &:nth-child(1),
         &:nth-child(2) {
@@ -136,8 +158,16 @@
           @extend .text-xs;
         }
 
-        &:nth-child(2) li {
-          @extend .text-sm;
+        &:nth-child(2) {
+
+          li {
+            @extend .text-sm;
+          }
+
+          @media (max-width: $screen-sm-max) {
+            border: none;
+          }
+
         }
 
       }
@@ -177,6 +207,10 @@
 
             ul {
               color: $dark-grey;
+            }
+
+            @media (max-width: $screen-xs-max) {
+              margin-top: 20px;
             }
 
           }
@@ -242,6 +276,11 @@
               padding-right: 25%;
               color: $dark-grey;
               margin-bottom: 50px;
+
+              @media (max-width: $screen-sm-max) {
+                padding-right: 0;
+              }
+
             }
 
           }
@@ -268,6 +307,11 @@
           padding-right: 25%;
           color: $dark-grey;
           margin-bottom: 50px;
+
+          @media (max-width: $screen-sm-max) {
+            padding-right: 0;
+          }
+
         }
 
       }

@@ -26,10 +26,10 @@
   }
 
   #autres-partenaires {
-    @extend .row;
 
     li {
-      @extend .col-sm-4;
+      @extend .col-sm-6;
+      @extend .col-md-4;
     }
 
   }

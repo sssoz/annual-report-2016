@@ -15,6 +15,11 @@
     left: 50%;
     position: absolute;
     color: #fff;
+
+    @media (max-width: $screen-xs-max) {
+      display: none;
+    }
+
   }
 
   .navbar-header {

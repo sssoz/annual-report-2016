@@ -30,6 +30,19 @@
     h4,
     ul {
       @include border-top($dark-grey);
+
+      @media (max-width: $screen-sm-max) {
+        margin-top: 15px;
+      }
+
+    }
+
+    ul:before {
+
+      @media (max-width: $screen-sm-max) {
+        border: none;
+      }
+
     }
 
     h3, h4 {
@@ -41,7 +54,6 @@
       @extend .col-md-4;
       @extend .text-sm;
       text-align: right;
-      padding-right: 0;
     }
 
   }

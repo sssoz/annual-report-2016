@@ -68,6 +68,7 @@ $on-laptop:        800px;
 
 // Link style mixin
 @mixin hover-link($colour) {
+  color: $colour;
   &:after {
     border-bottom: 1px solid $colour;
   }

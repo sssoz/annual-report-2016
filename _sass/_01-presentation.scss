@@ -26,6 +26,11 @@
     @extend .col-xs-12;
     float: none;
     @include content-columns(2);
+
+    @media (max-width: $screen-xs-max) {
+      @include content-columns(1);
+    }
+
   }
 
   #mot-du-president,
