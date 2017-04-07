@@ -2,16 +2,39 @@
 * Site header
 */
 header .navbar {
-  background: transparent;
+  width: 100%;
+  background-color: transparent;
   z-index: 10;
+  position: fixed;
 
   h1 {
-    line-height: 55px;
     margin: 0;
+
+    a {
+      margin-top: 10px;
+      display: block;
+      height: 33px;
+    }
+
+    path, rect {
+      fill: #fff;
+    }
+
   }
 
   a {
     color: #000;
+  }
+
+  &.affix {
+    background-color: #fff;
+    -webkit-transition: all 0.25s ease-in;
+    transition: all 0.25s ease-in;
+
+    path, rect {
+      fill: $coral;
+    }
+
   }
 
   .dropdown {
