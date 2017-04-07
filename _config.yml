@@ -24,6 +24,9 @@ index:
 toc:
   fr: "Table des matières"
   en: "Table of Contents"
+share:
+  fr: "Partager"
+  en: "Share"
 cover_page:
   fr: "Page couverture"
   en: "First page"

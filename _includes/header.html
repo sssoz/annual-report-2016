@@ -11,13 +11,13 @@
           {{ site.subtitle[page.lang] }}
         </h1>
       </div>
-      
+
       <div class="collapse navbar-collapse">
         <ul class="nav navbar-nav navbar-right">
-          <li class="switch-lang">
+          <!--<li class="switch-lang">
             {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
             {% for page in pages %} <a href="{{ page.url | prepend: site.url }}">{{ page.lang }}</a> {% endfor %}
-          </li>
+          </li>-->
           <li class="dropdown">
             <a href="#" class="dropdown-toggle toc-menu" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
               <span class="bar"></span>
@@ -35,6 +35,14 @@
                 <a href="#{{ section.ref }}">{{ section.title }}</a>
               </li>
               {% endfor %}
+              <li role="separator" class="divider"></li>
+              <li class="dropdown-header">{{ site.share[page.lang] }}</li>
+              <li class="menu-share">
+                <a href="http://twitter.com/share?text={{ site.title[page.lang] }} – {{ site.subtitle[page.lang] }}&url={{ site.url }}" target="_blank">Twitter</a>
+              </li>
+              <li class="menu-share">
+                <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}" target="_blank">Facebook</a>
+              </li>
             </ul>
           </li>
         </ul>

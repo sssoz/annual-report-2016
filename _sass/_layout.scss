@@ -1,7 +1,7 @@
 /**
-* Site header
+* Site header / navbar
 */
-header .navbar {
+.navbar {
   width: 100%;
   background-color: transparent;
   z-index: 10;
@@ -10,7 +10,7 @@ header .navbar {
   h1 {
     margin: 0;
     font-size: 16px;
-    line-height: 55px;
+    line-height: 50px;
     transform: translateX(-50%);
     left: 50%;
     position: absolute;
@@ -38,6 +38,7 @@ header .navbar {
     background-color: #fff;
     -webkit-transition: all 0.25s ease-in;
     transition: all 0.25s ease-in;
+    @include box-shadow(0 3px 5px rgba(0, 0, 0, .1));
 
     path, rect {
       fill: $coral;
@@ -63,7 +64,7 @@ header .navbar {
     border-radius: 0;
     display: block;
     width: 30px;
-    height: 55px;
+    height: 50px;
 
     > .bar {
       display: block;
@@ -95,6 +96,42 @@ header .navbar {
 
     }
 
+  }
+
+  .dropdown-menu {
+    background-color: $coral;
+    font-size: 24px;
+    top: 50px;
+    border: 1px solid #fff;
+    padding: 0;
+
+    li a {
+      padding: 15px;
+
+      &:hover, &:focus, &:active {
+        background: #fff;
+        color: $coral;
+      }
+
+    }
+
+    li.menu-share {
+      float: left;
+      width: 50%;
+
+      a {
+        text-align: center;
+      }
+
+    }
+
+  }
+
+  .dropdown-header {
+    font-size: 16px;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
   }
 
 }
