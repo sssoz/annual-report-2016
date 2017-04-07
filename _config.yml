@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
+# i18n
 title:
   fr: "Érudit"
   en: "Érudit"
@@ -15,7 +15,6 @@ subtitle:
 tagline:
     fr: "Cultivez <br/>votre savoir."
     en: "Cultivate <br/>your knowledge."
-email: info@erudit.org
 description:
   fr: La mission d’Érudit est d’assurer la diffusion et la promotion des savoirs et de permettre l’accès aux corpus à des fins de recherche. Érudit favorise une diffusion ouverte.
   en: La mission d’Érudit est d’assurer la diffusion et la promotion des savoirs et de permettre l’accès aux corpus à des fins de recherche. Érudit favorise une diffusion ouverte.
@@ -25,6 +24,9 @@ index:
 toc:
   fr: "Table des matières"
   en: "Table of Contents"
+cover_page:
+  fr: "Page couverture"
+  en: "First page"
 about:
   fr: "À propos d’Érudit"
   en: "About Érudit"
@@ -41,10 +43,14 @@ subscribe:
   fr: "S’inscrire"
   en: "Subscribe"
 
+# Social media + contact
+email: info@erudit.org
 url: "https://www.erudit.org/rapport/2016"
 twitter_username: eruditorg
 github_username:  erudit
 facebook_username: erudit.org
+
+# Site settings
 permalink: pretty
 collections:
   - sections
