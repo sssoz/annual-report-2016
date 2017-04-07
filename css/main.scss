@@ -66,6 +66,13 @@ $on-laptop:        800px;
   }
 }
 
+// Link style mixin
+@mixin hover-link($colour) {
+  &:after {
+    border-bottom: 1px solid $colour;
+  }
+}
+
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)

@@ -16,6 +16,10 @@
     @extend .text-xl;
   }
 
+  a {
+    @include hover-link(#000);
+  }
+
   .intro {
     @extend .col-sm-8;
     @extend .col-md-6;
