@@ -9,7 +9,7 @@
   }
 
   h4 {
-    padding: 0;
+    clear: both;
     @extend .text-xl;
   }
 
@@ -185,8 +185,9 @@
 
       h4 {
         padding-top: 20px;
+        @extend .col-xs-12;
       }
-      
+
     }
 
     &#commercialisation {
@@ -247,7 +248,7 @@
     &#autres {
 
       dl {
-        @extend .row;
+        clear: both;
 
         dt {
           color: #000;

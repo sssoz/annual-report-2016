@@ -21,7 +21,7 @@
     @extend .col-md-7;
 
     > li {
-      @extend .row;
+      clear: both;
     }
 
     h4,
