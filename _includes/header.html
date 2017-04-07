@@ -1,30 +1,39 @@
-<header class="site-header">
+<header>
 
-  <div class="container">
-
-    <h1><a class="site-title" href="{{ site.url }}/{{ site.index[page.lang] }}">{{ site.title[page.lang] }}</a></h1>
-
-    <nav class="site-nav">
-      <div class="switch-lang">
-        {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-        {% for page in pages %} <a href="{{ page.url | prepend: site.url }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
+  <nav class="navbar navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <h1><a href="{{ site.url }}/{{ site.index[page.lang] }}">{{ site.title[page.lang] }}</a></h1>
       </div>
-      <a href="#" class="menu-icon">
-        <svg viewBox="0 0 18 15">
-          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
-          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
-          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
-        </svg>
-      </a>
-      <div class="trigger">
-        <h2>{{ site.toc[page.lang] }}</h2>
-        {% assign sections=site.sections | where:"lang", page.lang | sort: 'order' %}
-        {% for section in sections %}
-          <a class="page-link" href="{{ prepend: site.url }}#{{ section.ref }}">{{ section.title }}</a>
-        {% endfor %}
-      </div>
-    </nav>
 
-  </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav navbar-right">
+          <li class="switch-lang">
+            {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+            {% for page in pages %} <a href="{{ page.url | prepend: site.url }}">{{ page.lang }}</a> {% endfor %}
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle toc-menu" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+              <span class="bar"></span>
+              <span class="bar"></span>
+              <span class="bar"></span>
+            </a>
+            <h2 class="sr-only">{{ site.toc[page.lang] }}</h2>
+            <ul class="dropdown-menu">
+              <li>
+                <a href="#couverture">{{ site.cover_page[page.lang] }}</a>
+              </li>
+              {% assign sections=site.sections | where:"lang", page.lang | sort: 'order' %}
+              {% for section in sections %}
+              <li>
+                <a href="#{{ section.ref }}">{{ section.title }}</a>
+              </li>
+              {% endfor %}
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
 
 </header>
