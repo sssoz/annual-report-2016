@@ -40,10 +40,10 @@ Deux éléments importants sont venus appuyer et structurer le développement du
 Érudit a conclu un partenariat avec le Réseau canadien de documentation pour la recherche (RCDR/CRKN) afin d’instaurer, à l’échelle nationale, une solution durable de soutien à l’édition savante en libre accès. Grâce à ce partenariat, 53 bibliothèques universitaires canadiennes ont apporté leur soutien à 107 revues savantes canadiennes.
 
 {:.intro}
-En apportant des solutions concrètes à la problématique de la transition vers le libre accès, ce partenariat a eu un impact important dans le monde de la diffusion scientifique. Nous avons ainsi été invités en 2015-2016 à présenter cette initiative dans près d’une vingtaine de colloques et d'événements au Canada et à l’étranger. La liste détaillée est disponible dans la partie Communications.
+En apportant des solutions concrètes à la transition vers le libre accès, ce partenariat a eu un impact important dans le monde de la diffusion scientifique. Nous avons ainsi été invités en 2015-2016 à présenter cette initiative dans près d’une vingtaine de colloques et d'événements au Canada et à l’étranger. La liste détaillée est disponible dans la partie Communications.
 
 {:.intro}
-En collaboration avec le RDCDR, nous avons également organisé un séminaire réunissant plus de 120 directeurs de revues savantes ou de bibliothèques universitaires autour des nouveaux modes diffusion des connaissances et du libre accès. Cette journée a été l’occasion d’explorer les enjeux actuels que rencontrent les bibliothèques universitaires et les revues savantes au Canada et a permis des échanges fructueux entre les différents acteurs du milieu.
+En collaboration avec le RDCDR, nous avons également organisé un séminaire réunissant plus de 120 directeurs de revues savantes ou de bibliothèques universitaires autour des nouveaux modes de diffusion des connaissances et du libre accès. Cette journée a été l’occasion d’explorer les enjeux actuels que rencontrent les bibliothèques universitaires et les revues savantes au Canada et a permis des échanges fructueux entre les différents acteurs du milieu.
 
 {:.intro}
 Voici deux présentations qui ont particulièrement attiré notre attention :
