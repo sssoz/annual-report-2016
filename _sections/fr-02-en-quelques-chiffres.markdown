@@ -121,7 +121,7 @@ Nous accompagnons les éditeurs scientifiques et culturels dans la diffusion num
 - +23M
   - 23&nbsp;437&nbsp;270 consultations sur la plateforme en 2015
 - ##### Partenariats
-  - Partenariat avec Wikipedia
+  - Partenariat avec Wikipédia
     - Érudit signait en 2015 un accord de partenariat avec Wikipédia afin d’offrir un accès privilégié au corpus à certains grands contributeurs de l’encyclopédie en ligne. Ce partenariat a favorisé l’augmentation de 10% des références à des articles diffusés sur Érudit par Wikipédia durant la dernière année.
   - Partenariat avec l’AIEQ
     - Érudit a poursuivi son partenariat avec l’Association internationale des études québécoises en offrant un accès à une sélection de revues à leurs membres hors Québec.
