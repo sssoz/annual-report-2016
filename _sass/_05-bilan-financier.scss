@@ -17,6 +17,12 @@
     @extend .text-sm;
   }
 
+  .graph-bilan {
+    @extend .col-sm-3;
+    @extend .col-md-5;
+    text-align: center;
+  }
+
   #produits,
   #charges,
   #deficit-net {
@@ -54,6 +60,11 @@
       @extend .col-md-4;
       @extend .text-sm;
       text-align: right;
+
+      &:nth-child(2) {
+        color: $coral;
+      }
+
     }
 
   }
