@@ -93,26 +93,6 @@
   }
 }
 
-
-// Both navbar header and collapse
-//
-// When a container is present, change the behavior of the header and collapse.
-
-.container,
-.container-fluid {
-  > .navbar-header,
-  > .navbar-collapse {
-    margin-right: -$navbar-padding-horizontal;
-    margin-left:  -$navbar-padding-horizontal;
-
-    @media (min-width: $grid-float-breakpoint) {
-      margin-right: 0;
-      margin-left:  0;
-    }
-  }
-}
-
-
 //
 // Navbar alignment options
 //
