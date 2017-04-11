@@ -53,7 +53,7 @@ Frédéric Bouchard
 ### Mot de la directrice
 
 {:.text-xs}
-C’est forte de ses dernières réalisations - la reconnaissance à titre d’ISM, mais également le Partenariat avec les bibliothèques universitaires - que l’équipe d’Érudit a poursuivi son mandat de diffusion et de promotion du patrimoine scientifique québécois et canadien. Si notre organisme connaît une croissance importante depuis quelques années, nous évoluons également dans un environnement en pleine évolution, et nous devons soutenir les besoins toujours grandissants des chercheurs, bibliothécaires et éditeurs en termes de services numériques.
+C’est forte de ses dernières réalisations - la reconnaissance à titre d’ISM, mais également le Partenariat avec les bibliothèques universitaires - que l’équipe d’Érudit a poursuivi son mandat de diffusion et de promotion du patrimoine scientifique québécois et canadien. Si notre organisme connaît une croissance importante depuis quelques années, nous évoluons également dans un environnement en pleine évolution, et nous devons soutenir les besoins toujours grandissants des chercheurs, bibliothécaires et éditeurs pour des services numériques.
 <br><br>
 L’exercice de planification stratégique, débuté cette année avec le conseil d’administration et l’ensemble de l’équipe, s’inscrit ainsi en droite ligne avec notre volonté de positionner le Consortium au cœur de l’écosystème de la communication savante et de la culture numérique. Cela nous aura également permis d’encadrer la rédaction d’importantes demandes de financement, et de consolider nos grandes orientations.
 <br><br>
