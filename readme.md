@@ -12,3 +12,8 @@ Ruby must be installed.
 2. `cd annual-report-2016`
 3. `jekyll build`
 4. Content will be found in `annual-report-2016/_site`
+
+## Updating copy / content
+
+- `config.yml`
+- `_sections/`
