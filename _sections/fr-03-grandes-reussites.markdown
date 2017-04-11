@@ -24,7 +24,7 @@ Deux éléments importants sont venus appuyer et structurer le développement du
 
 1. #### Planification  stratégique
   - Dans une période de croissance importante, Érudit a entrepris de planifier les grandes orientations de ses activités sur le long terme. Deux consultantes, issues du milieu de la recherche, ont épaulé le conseil d’administration et l’équipe d’Érudit dans cet exercice.
-  - Également, le milieu de la diffusion scientifique connait de nombreux changements, avec l’arrivée de nouvelles pratiques de recherche (visualisation des données, exploitation de corpus, etc.) et le développement du mouvement pour le libre accès. Dans ce contexte, Érudit doit à la fois faire évoluer son offre de services et son modèle d’affaires.
+  - Également, le milieu de la diffusion scientifique connaît de nombreux changements, avec l’arrivée de nouvelles pratiques de recherche (visualisation des données, exploitation de corpus, etc.) et le développement du mouvement pour le libre accès. Dans ce contexte, Érudit doit à la fois faire évoluer son offre de services et son modèle d’affaires.
 
 2. #### Création d’une équipe des technologies de l’information
   - En prévision de plusieurs chantiers technologiques importants, la décision a été prise de mettre en place une équipe des technologies de l’information au sein d’Érudit. Grâce à l’appui du service des ressources humaines de l’Université de Montréal, nous avons pu recruter de nouveaux collaborateurs à l’automne 2015, tous engagés dans le développement informatique en code source ouvert et la diffusion des connaissances.  
