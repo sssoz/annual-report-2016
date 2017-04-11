@@ -23,10 +23,10 @@
   }
 
   .navbar-header {
+    float: none;
 
     a {
       margin-top: 10px;
-      display: block;
       height: 33px;
     }
 
@@ -52,17 +52,77 @@
 
   }
 
-  .dropdown {
-    display: block;
-    height: 28px;
-    width: 28px;
-  }
-
   .switch-lang a {
     display: inline-block ;
     color: #000;
   }
 
+  // Override default Bootstrap navbar to show collapsed nav on desktop
+  .navbar-toggle {
+    display: block;
+  }
+
+  .navbar-collapse {
+    border-top: 1px solid transparent;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+
+    &.collapse {
+      display: none!important;
+
+      &.in{
+        display:block !important;
+      }
+
+    }
+
+  }
+
+  .navbar-nav {
+    background-color: $coral;
+    font-size: 24px;
+    top: 50px;
+    border: 1px solid #fff;
+    padding: 0;
+    float: none!important;
+    margin-top: 7.5px;
+
+    > li {
+      float: none;
+
+      a {
+        padding: 15px;
+        color: #fff;
+
+        &:hover, &:focus, &:active {
+          background: #fff;
+          color: $coral;
+        }
+
+      }
+
+      &.menu-share {
+        float: left;
+        width: 50%;
+
+        a {
+          text-align: center;
+        }
+
+      }
+
+      &.menu-header {
+        border-top: 1px solid #fff;
+        font-size: 16px;
+        color: #fff;
+        padding: 10px;
+        text-align: center;
+      }
+
+    }
+
+  }
+
+  // hamburger menu
   .toc-menu {
     cursor: pointer;
     background-color: transparent;
@@ -72,6 +132,7 @@
     display: block;
     width: 30px;
     height: 50px;
+    margin: 0;
 
     > .bar {
       display: block;
@@ -103,42 +164,6 @@
 
     }
 
-  }
-
-  .dropdown-menu {
-    background-color: $coral;
-    font-size: 24px;
-    top: 50px;
-    border: 1px solid #fff;
-    padding: 0;
-
-    li a {
-      padding: 15px;
-
-      &:hover, &:focus, &:active {
-        background: #fff;
-        color: $coral;
-      }
-
-    }
-
-    li.menu-share {
-      float: left;
-      width: 50%;
-
-      a {
-        text-align: center;
-      }
-
-    }
-
-  }
-
-  .dropdown-header {
-    font-size: 16px;
-    color: #fff;
-    padding: 10px;
-    text-align: center;
   }
 
 }
