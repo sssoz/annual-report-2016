@@ -189,3 +189,9 @@ section {
   }
 
 }
+
+// Remove gaps between sections on mobile and tablet devices
+section,
+footer {
+  margin-top: -1px;
+}
