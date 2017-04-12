@@ -18,7 +18,6 @@
   }
 
   .graph-bilan {
-    @extend .col-sm-3;
     @extend .col-md-5;
     text-align: center;
   }
@@ -26,7 +25,6 @@
   #produits,
   #charges,
   #deficit-net {
-    @extend .col-sm-9;
     @extend .col-md-7;
 
     > li {

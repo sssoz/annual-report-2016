@@ -30,6 +30,20 @@
     li {
       @extend .col-sm-6;
       @extend .col-md-4;
+
+      // Row alignment for different viewport sizes / responsive
+      @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+        &:nth-child(2n+1) {
+          clear: both;
+        }
+      }
+
+      @media (min-width: $screen-md-min) {
+        &:nth-child(3n+1) {
+          clear: both;
+        }
+      }
+
     }
 
   }
