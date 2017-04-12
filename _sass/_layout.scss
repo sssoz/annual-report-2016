@@ -15,6 +15,7 @@
     left: 50%;
     position: absolute;
     color: #fff;
+    display: inline-block;
 
     @media (max-width: $screen-xs-max) {
       display: none;
@@ -191,6 +192,7 @@ section {
 }
 
 // Remove gaps between sections on mobile and tablet devices
+header,
 section,
 footer {
   margin-top: -1px;
