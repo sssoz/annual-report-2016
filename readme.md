@@ -15,5 +15,10 @@ Ruby must be installed.
 
 ## Updating copy / content
 
+Content can be modified in the following files and directories
 - `config.yml`
+  - Labels, titles (both EN / FR), general site settings... 
 - `_sections/`
+  - One markdown file per section (six per language)
+  - FR content prefixed with `fr-`, EN with `en-`
+  
