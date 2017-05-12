@@ -48,9 +48,9 @@ $on-laptop:        800px;
 }
 
 // Border mixin that won't break out of Bootstrap's grid
-@mixin border-top($colour) {
+@mixin border-top($colour, $height: 1px) {
   &:before {
-    border-top: 1px solid $colour;
+    border-top: $height solid $colour;
     display: block;
     content: " ";
     padding-bottom: 20px;

@@ -5,7 +5,22 @@
 
   h3 {
     @extend .text-lg;
+    @extend .col-md-4;
     margin-top: 30px;
+
+    + ul {
+      @extend .col-md-8;
+
+      li {
+        @extend .text-sm;
+        @extend .col-md-6;
+        text-align: right;
+        margin-top: 30px;
+        line-height: 75px;
+      }
+
+    }
+
   }
 
   h4 {
@@ -17,18 +32,14 @@
     @extend .text-sm;
   }
 
-  .graph-bilan {
-    @extend .col-md-5;
-    text-align: center;
-  }
-
   #produits,
   #charges,
-  #deficit-net {
-    @extend .col-md-7;
+  #bilan {
+    @extend .col-md-12;
 
     > li {
       clear: both;
+
     }
 
     h4,
@@ -49,8 +60,8 @@
 
     }
 
-    h3, h4 {
-      @extend .col-md-8;
+    h4 {
+      @extend .col-md-4;
       padding-left: 0;
     }
 
@@ -59,8 +70,12 @@
       @extend .text-sm;
       text-align: right;
 
-      &:nth-child(2) {
+      &:nth-child(1) {
         color: $coral;
+      }
+
+      &:after {
+        content: ' $';
       }
 
     }
