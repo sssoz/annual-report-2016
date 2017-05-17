@@ -38,7 +38,7 @@ Liste des présentations données durant l’année
   <br><br>
   Présentation du partenariat Érudit - RCDR à une centaine de directeurs de bibliothèques universitaires françaises. <br><br>[En savoir plus](http://jao2015.sciencesconf.org/){:target="_blank"}
 - ##### 20 octobre
-  - Paris, France
+  - Montréal, Canada
   - Co-organisation d’une table ronde sur les enjeux du libre accès en partenariat avec les bibliothèques de l’Université de Montréal
   <br><br>
   La table ronde a permis de présenter différents points de vue autour de la diffusion en libre accès des résultats de la recherche. Participation d’environ 45 étudiants et chercheurs de l’Université de Montréal à cette table ronde. <br><br>[En savoir plus](http://www.calendrier.umontreal.ca/?com=detail&eID=634325){:target="_blank"}
@@ -53,7 +53,7 @@ Liste des présentations données durant l’année
   <br><br>
   Présentation du partenariat avec le RCDR à une trentaine de professeurs et chercheurs de l’Université Laval. <br><br>[En savoir plus](http://www.bibl.ulaval.ca/semaine-internationale-du-libre-acces-2014){:target="_blank"}
 - ##### 22–23 octobre
-  - Québec, Canada
+  - Ottawa, Canada
   - Atelier 2015 du Fonds des initiatives scientifiques majeures
   <br><br>
   Participation à l’atelier de travail sur la planification stratégique, la gestion du risque et la gestion de l’accès aux utilisateurs.
@@ -153,7 +153,7 @@ Directrice générale
 : Tanja Niemann
 
 Directrice des opérations
-: Élise Bergeron
+: Joanie Lavoie
 
 Responsable des technologies
 : Davin Baragiotta
@@ -177,8 +177,6 @@ Développeurs
 &nbsp;
 
 {:.roles .notre-equipe}
-Administrateur système
-: Philippe Dagenais
 
 Soutien administratif
 : Louise Lalonde
