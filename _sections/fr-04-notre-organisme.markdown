@@ -100,6 +100,11 @@ Liste des présentations données durant l’année
   - Rencontre officielle de la direction scientifique du FRQSC
   <br><br>
   Le directeur scientifique d’Érudit a présenté les orientations du Consortium lors de la rencontre officielle avec Mme Louise Poissant, directrice scientifique du Fonds de recherche du Québec – Société et Culture, organisée le 26 janvier à l’Université de Montréal.
+- ##### 18 mars
+  - Montréal, Canada
+  - Table ronde "Écrire en français à l’ère du numérique : les enjeux de l’édition scientifique"
+  <br><br>
+  Dans le cadre d'une journée de reflexion sur l’écriture et l’édition en français à l’ère du numérique co-organisée par le Centre de francophonie des Amériques, Tanja Niemann a présenté les activités d'Érudit pour faire rayonner les revues savantes francophones. <br><br>[Voir la présentation](https://youtu.be/bFF70bsLRHw?t=37m40s){:target="_blank"}
 - ##### 20 mars
   - Montréal, Canada
   - Participation à l’émission *Les années-lumière* sur la Première chaîne de Radio Canada
