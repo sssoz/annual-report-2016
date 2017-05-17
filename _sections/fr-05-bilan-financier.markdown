@@ -15,19 +15,19 @@ order: 05
 {:#produits}
 - #### Services d’édition et de commercialisation, partenariats
   - 1 512 566
-  - 1 405 000
+  - 1 405 329
 - #### Subventions gouvernementales
   - 694 570
-  - 419 000
+  - 419 239
 - #### Contributions des 3 associés du Consortium
   - 425 490
-  - 365 000
+  - 364 771
 - #### Autres revenus
   - 3 110
-  - 2 300
+  - 2 305
 - #### Total
-  - **2 635 735**
-  - **2 191 300**
+  - **2 635 736**
+  - **2 191 644**
 
 ---
 
@@ -37,23 +37,23 @@ order: 05
 
 {:#charges}
 - #### Services d’édition et de commercialisation, partenariats
-  - 1 244 183
-  - 1 010 000
-- #### Salaires
-  - 756 726
-  - 366 000
-- #### Maintenance et développement technologique
-  - 644 911
-  - 258 000
+  - 1 171 756
+  - 1 010 459
+- #### Salaires et services de soutien informatique
+  - 1 274 307
+  - 624 495
+- #### Honoraires professionnels et sous-traitance
+  - 271 680
+  - 140 842
 - #### Administration
-  - 198 127
-  - 196 000
+  - 138 932
+  - 54 134
 - #### Promotion et communications
-  - 59 760
-  - 25 000
+  - 47 034
+  - 24 847
 - #### Total
-  - **2 903 707**
-  - **1 855 000**
+  - **2 903 709**
+  - **1 854 777**
 
 ---
 
