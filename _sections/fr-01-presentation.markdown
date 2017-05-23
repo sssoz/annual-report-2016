@@ -36,9 +36,9 @@ La mission d’Érudit est d’assurer la diffusion et la promotion des savoirs 
 ### Mot du président
 
 {:.text-xs}
-C’est avec un très grand plaisir que je commence cette année mon premier mandat comme président du Consortium Érudit. En tant que chercheur et professeur, j’ai eu à utiliser la plateforme Érudit à de nombreuses reprises, et je suis fier de contribuer aujourd’hui au développement de cette organisation unique au Canada.
+C’est avec un très grand plaisir que je commence cette année mon premier mandat comme président du Consortium Érudit. En tant que chercheur et professeur, je consulte régulièrement les publications diffusées sur la plateforme Érudit, et je suis fier de contribuer aujourd’hui au développement de cette organisation unique au Canada.
 <br><br>
-Je tiens à souligner, au nom de l’ensemble du conseil d’administration, le formidable travail de Dominique Bérubé à ce poste de 2012 à 2015. Son implication et sa vision stratégique ont permis à Érudit de devenir une des principales plateformes numériques pour la diffusion des publications en sciences humaines et sociales, et ont indéniablement contribué à aux grands succès du consortium dans la dernière année. La reconnaissance d’Érudit comme Initiative scientifique majeure par la Fondation canadienne pour l’innovation et la mise en place d’un partenariat avec les bibliothèques universitaires canadiennes font d’ailleurs partie des réussites qu’Érudit a travaillé à consolider en 2015-2016.
+Je tiens à souligner, au nom de l’ensemble du conseil d’administration, le formidable travail de Dominique Bérubé à ce poste de 2012 à 2015. Son implication et sa vision stratégique ont permis à Érudit de devenir une des principales plateformes numériques pour la diffusion des publications en sciences humaines et sociales, et ont indéniablement contribué aux grands succès du consortium dans la dernière année. La reconnaissance d’Érudit comme Initiative scientifique majeure par la Fondation canadienne pour l’innovation et la mise en place d’un partenariat avec les bibliothèques universitaires canadiennes font d’ailleurs partie des réussites qu’Érudit a travaillé à consolider en 2015-2016.
 <br><br>
 De grandes et belles choses sont encore à venir pour le Consortium Érudit et, à travers lui, pour le milieu de la recherche québécois et canadien.
 
