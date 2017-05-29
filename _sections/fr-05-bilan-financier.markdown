@@ -13,13 +13,13 @@ order: 05
   - 2015 (10 mois)
 
 {:#produits}
-- #### Services d’édition et de commercialisation, partenariats
+- #### Services d’édition et de commercialisation, partenariats
   - 1 512 566
   - 1 405 329
 - #### Subventions gouvernementales
   - 694 570
   - 419 239
-- #### Contributions des 3 associés du Consortium
+- #### Contributions des 3 associés du Consortium
   - 425 490
   - 364 771
 - #### Autres revenus
@@ -36,7 +36,7 @@ order: 05
   - 2015 (10 mois)
 
 {:#charges}
-- #### Services d’édition et de commercialisation, partenariats
+- #### Services d’édition et de commercialisation, partenariats
   - 1 171 756
   - 1 010 459
 - #### Salaires et services de soutien informatique

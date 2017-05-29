@@ -7,7 +7,6 @@ order: 02
 {:.text-sm .intro}
 Nous accompagnons les éditeurs scientifiques et culturels dans la diffusion numérique de leurs publications à travers une large gamme de services. Découvrez nos activités de 2015-2016 en quelques chiffres.
 
----
 
 {:#publications}
 ### Publications
@@ -36,7 +35,6 @@ Nous accompagnons les éditeurs scientifiques et culturels dans la diffusion num
 - revues diffusées et préservées
   - représentant plus de 30 disciplines des sciences humaines et sociales: études des langues, histoire, anthropologie et ethnologie, relations industrielles, sciences politiques, théâtre, cinéma, droit...
 
----
 
 {:#nouvelles-revues}
 ### Nouvelles revues
@@ -98,35 +96,32 @@ Nous accompagnons les éditeurs scientifiques et culturels dans la diffusion num
   <br/>Numéros courants sous restriction
   - La *Revue générale de droit* publie, en français ou en anglais, des textes originaux s'intéressant au phénomène juridique, entendu dans son sens large, et aux enjeux sociojuridiques selon des approches scientifiques diversifiées, notamment inter- et pluridisciplinaires, comparées et positivistes critiques.
 
----
 
 ### Services
 
 {:#edition .service}
-- #### Édition
-  - Le balisage fin du contenu, l’enrichissement des métadonnées et les différents formats de lecture offerts par la chaîne de production d’Érudit garantissent aux publications une excellente repérabilité sur les scènes nationale et internationale.
+- #### Édition
+  - Le balisage fin du contenu, l’enrichissement des métadonnées et les différents formats de lecture offerts par la chaîne de production d’Érudit garantissent aux publications une excellente repérabilité sur les scènes nationale et internationale.
 - 130
-  - éditeurs au Canada et à l’international collaborent avec Érudit pour l’édition numérique de leurs documents (revues, livres, actes de colloques).
+  - éditeurs au Canada et à l’international collaborent avec Érudit pour l’édition numérique de leurs documents (revues, livres, actes de colloques).
 
----
 
 {:#diffusion .service}
 - #### Diffusion
-  - Les 5 pays d’où proviennent la plus grande partie des consultations&nbsp;:
+  - Les 5 pays d’où proviennent la plus grande partie des consultations&nbsp;:
     1. Canada
     2. France
-    3. États-Unis
+    3. États-Unis
     4. Chine
     5. Allemagne
 - +23M
   - 23&nbsp;437&nbsp;270 consultations sur la plateforme en 2015
 - ##### Partenariats
   - Partenariat avec Wikipédia
-    - Érudit signait en 2015 un accord de partenariat avec Wikipédia afin d’offrir un accès privilégié au corpus à certains grands contributeurs de l’encyclopédie en ligne. Ce partenariat a favorisé l’augmentation de 10% des références à des articles diffusés sur Érudit par Wikipédia durant la dernière année.
+    - Érudit signait en 2015 un accord de partenariat avec Wikipédia afin d’offrir un accès privilégié au corpus à certains grands contributeurs de l’encyclopédie en ligne. Ce partenariat a favorisé l’augmentation de 10% des références à des articles diffusés sur Érudit par Wikipédia durant la dernière année.
   - Partenariat avec l’AIEQ
     - Érudit a poursuivi son partenariat avec l’Association internationale des études québécoises en offrant un accès à une sélection de revues à leurs membres hors Québec.
 
----
 
 {:#commercialisation .service}
 - #### Commercialisation
@@ -147,7 +142,6 @@ Nous accompagnons les éditeurs scientifiques et culturels dans la diffusion num
     [CIFNAL](https://www.crl.edu/programs/cifnal){:target="_blank"}
     : Grâce à l’entente conclue avec le consortium CIFNAL (relié au Center for Research Libraries), 6  institutions américaines ont souscrit à une des collections d’Érudit : Harvard, Yale, Duke, University of Washington, University of Vermont et la New York Public Library.
 
----
 
 {:#autres .service}
 - #### Autres services

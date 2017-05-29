@@ -27,7 +27,7 @@ Liste des présentations données durant l’année
   - Présentation du Partenariat Érudit-RCDR pour le libre accès dans le cadre de la Conférence annuelle LIBER
   <br><br>
   Présentation du partenariat avec le RCDR à une cinquantaine de directeurs de bibliothèques universitaires européennes.
-- ##### 11 au 14 août
+- ##### 11 au 14 août
   - Vancouver, Canada
   - Présentation du renforcement de la collaboration Érudit- PKP, Conférence annuelle de PKP
   <br><br>
@@ -48,7 +48,7 @@ Liste des présentations données durant l’année
   <br><br>
   Présentation des avancées de la collaboration entre Érudit et le Public Knowledge project (PKP) aux membres de l’Association des bibliothèques de recherche du Canada (CARL-ABRC). <br><br>[En savoir plus](http://www.carl-abrc.ca/fr/a-propos-de-labrc/membres-2/reunions-des-membres/){:target="_blank"}
 - ##### 22 octobre
-  - Québec, Canada
+  - Québec, Canada
   - Présentation du Partenariat Érudit-RCDR à l’Université Laval dans le cadre de la Semaine internationale pour le libre accès
   <br><br>
   Présentation du partenariat avec le RCDR à une trentaine de professeurs et chercheurs de l’Université Laval. <br><br>[En savoir plus](http://www.bibl.ulaval.ca/semaine-internationale-du-libre-acces-2014){:target="_blank"}
@@ -58,22 +58,22 @@ Liste des présentations données durant l’année
   <br><br>
   Participation à l’atelier de travail sur la planification stratégique, la gestion du risque et la gestion de l’accès aux utilisateurs.
 - ##### 6 novembre
-  - Charleston, États-Unis
+  - Charleston, États-Unis
   - Présentation du Partenariat Érudit-RCDR à la Charleston Conference
   <br><br>
   Présentation du partenariat avec le RCDR à une cinquantaine de directrices et directeurs de bibliothèques universitaires américaines. <br><br>[En savoir plus](https://2015charlestonconference.sched.org/speaker/joanie.lavoie){:target="_blank"}
 - ##### 16 novembre
-  - Montréal, Canada
+  - Montréal, Canada
   - Participation à l’organisation du Bootcamp de l’Association canadienne des revues savantes canadiennes
   <br><br>
   L’équipe des communications d’Érudit a participé à l’organisation de la journée « Bootcamp » de l’Association canadienne des revues savantes (ACRS-CALJ). Cette journée a permis l’actualisation des connaissances des 30 directrices et directeurs de revues savantes canadiennes présents à cette journée. <br><br>[En savoir plus](http://www.calj-acrs.ca/sites/default/files/3rd-annualcalj-bootcamp-2015-en.pdf){:target="_blank"}
 - ##### 17 novembre
-  - Montréal, Canada
+  - Montréal, Canada
   - Organisation du séminaire *Nouveaux modes de diffusion des connaissances et libre accès au Canada* en collaboration avec le RCDR
   <br><br>
   Le séminaire a permis d’améliorer le dialogue entre les revues savantes et les bibliothèques universitaires canadiennes concernant la diffusion en libre accès. Participation de 110 directeurs de revues savantes, responsables de bibliothèques universitaires canadiennes et chercheurs, à cette journée. <br><br>[En savoir plus](http://www.seminaire2015.org/){:target="_blank"}
 - ##### 18–20 novembre
-  - Montréal, Canada
+  - Montréal, Canada
   - 7<sup>e</sup> Congrès des milieux documentaires du Québec
   <br><br>
   Ce congrès a permis à Érudit de présenter l’ensemble de ses nouveautés aux bibliothécaires québécois présents.
@@ -82,8 +82,8 @@ Liste des présentations données durant l’année
   - Présentation d’Érudit dans le cadre du séminaire *Nouvelles Collaborations scientifiques autour des infrastructures du numérique*
   <br><br>
   Vincent Larivière, directeur scientifique d’Érudit a pu présenter la plateforme Érudit aux chercheurs français dans le cadre de ce séminaire.
-- ##### 4 décembre
-  - San Francisco, États-Unis
+- ##### 4 décembre
+  - San Francisco, États-Unis
   - Rencontre préliminaire de la fondation Coko
   <br><br>
   L’équipe de direction d’Érudit a rencontré les membres de la Collaborative Knowledge Foundation (Coko) afin d’établir des liens de collaboration durables en vue de la création de nouveaux outils d’édition numérique.
@@ -96,17 +96,17 @@ Liste des présentations données durant l’année
   <br><br>
   Érudit a participé à la journée de recherche sur les humanités numériques organisée par INKE.
 - ##### 26 janvier
-  - Montréal, Canada
+  - Montréal, Canada
   - Rencontre officielle de la direction scientifique du FRQSC
   <br><br>
   Le directeur scientifique d’Érudit a présenté les orientations du Consortium lors de la rencontre officielle avec Mme Louise Poissant, directrice scientifique du Fonds de recherche du Québec – Société et Culture, organisée le 26 janvier à l’Université de Montréal.
 - ##### 18 mars
-  - Montréal, Canada
+  - Montréal, Canada
   - Table ronde "Écrire en français à l’ère du numérique : les enjeux de l’édition scientifique"
   <br><br>
   Dans le cadre d'une journée de reflexion sur l’écriture et l’édition en français à l’ère du numérique co-organisée par le Centre de francophonie des Amériques, Tanja Niemann a présenté les activités d'Érudit pour faire rayonner les revues savantes francophones. <br><br>[Voir la présentation](https://youtu.be/bFF70bsLRHw?t=37m40s){:target="_blank"}
 - ##### 20 mars
-  - Montréal, Canada
+  - Montréal, Canada
   - Participation à l’émission *Les années-lumière* sur la Première chaîne de Radio Canada
   <br><br>
   Science in French ou en anglais ? Participation de Tanja Niemann à une table ronde. <br><br>[En savoir plus](http://ici.radio-canada.ca/emissions/les_annees_lumiere/2012-2013/chronique.asp?idChronique=401236){:target="_blank"}
@@ -197,23 +197,23 @@ Assistantes techniques
 Le conseil d’administration d’Érudit est composé de personnalités du monde de la recherche, des bibliothèques universitaires et de l’édition.
 
 {:.roles .conseil-admin}
-Président
-: Frédéric Bouchard
-: Vice-recteur associé à la recherche, à la découverte, à la création et à l’innovation, Université de Montréal
+Président
+: Frédéric Bouchard
+: Vice-recteur associé à la recherche, à la découverte, à la création et à l’innovation, Université de Montréal
 
 &nbsp;
 
 {:.roles .conseil-admin}
-Vice-présidente
+Vice-présidente
 : Loubna Ghaouti
-: Directrice de la Bibliothèque, Université Laval
+: Directrice de la Bibliothèque, Université Laval
 
 &nbsp;
 
 {:.roles .conseil-admin}
-Secrétaire-trésorière
+Secrétaire-trésorière
 : Lynda Gadoury
-: Directrice générale des bibliothèques, Université du Québec à Montréal
+: Directrice générale des bibliothèques, Université du Québec à Montréal
 
 {:#observateurs-membres}
 - ##### Observateurs
