@@ -126,6 +126,8 @@
 
   // Services sub-section
   .service {
+    margin-bottom: 50px;
+    @extend .clearfix;
 
     > li {
       border-top: 1px solid $coral;
