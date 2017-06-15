@@ -223,7 +223,7 @@ Secretary-Treasurer
   - Marie-Thérèse Duquette
     - Head of Partnership Development and Programs, Fonds de Recherche du Québec – Société et Culture (FRQSC)
   - Vincent Larivière
-    - Professeur agrégé, Université de Montréal, directeur scientifique, Érudit
+    - Associate Professor, Université de Montréal, Scientific Director, Érudit
   - Brent Roe
     - CRKN representative, University Librarian, Laurentian University
 - ##### Members
