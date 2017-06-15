@@ -108,7 +108,7 @@ Nine new journals joined the Érudit platform in 2015-2016:
 
 {:#diffusion .service}
 - #### Dissemination
-  - -	Most article views come from the following five countries:
+  - Most article views come from the following five countries:
     1. Canada
     2. France
     3. United States
@@ -117,7 +117,7 @@ Nine new journals joined the Érudit platform in 2015-2016:
 - +23M
   - 23,437,270 documents consulted on the platform in 2015
 - ##### Partnerships
-  - -	Partnership with Wikipedia
+  - Partnership with Wikipedia
     - In 2015 Érudit signed a partnership agreement with Wikipedia to provide preferential access to our collections for some of the major contributors to the online encyclopedia. This partnership increased the number of Wikipedia citations of articles disseminated through Érudit by 10% over the last year.
   - Partnership with AIEQ
     - Érudit continued its partnership with the Association Internationale des Études Québécoises by offering its members outside Quebec access to a selection of journals. 
