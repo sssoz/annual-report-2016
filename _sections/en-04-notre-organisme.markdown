@@ -77,50 +77,50 @@ The daylong seminar was attended by 110 editors of scholarly journals, heads of 
 <br><br>[More](http://www.seminaire2015.org/anglais/){:target="_blank"}
 - ##### November 18–20
   - Montréal, Canada
-  - 7<sup>e</sup> Congrès des milieux documentaires du Québec
+  - Seventh Congrès des Milieux Documentaires du Québec
   <br><br>
-  Ce congrès a permis à Érudit de présenter l’ensemble de ses nouveautés aux bibliothécaires québécois présents.
-- ##### 26–27 novembre
+  This conference gave Érudit the opportunity to present all of its latest developments to the Quebec librarians in attendance.
+- ##### November 26–27
   - Toulouse, France
-  - Présentation d’Érudit dans le cadre du séminaire *Nouvelles Collaborations scientifiques autour des infrastructures du numérique*
+  - Presentation on Érudit at the *Nouvelles Collaborations Scientifiques Autour des Infrastructures du Numérique*
   <br><br>
-  Vincent Larivière, directeur scientifique d’Érudit a pu présenter la plateforme Érudit aux chercheurs français dans le cadre de ce séminaire.
-- ##### 4 décembre
+   Vincent Larivière, Scientific Director of Érudit, introduced researchers to the Érudit platform as part of this seminar.
+- ##### December 4 
   - San Francisco, États-Unis
-  - Rencontre préliminaire de la fondation Coko
+  - Preliminary meeting with the Coko Foundation
   <br><br>
-  L’équipe de direction d’Érudit a rencontré les membres de la Collaborative Knowledge Foundation (Coko) afin d’établir des liens de collaboration durables en vue de la création de nouveaux outils d’édition numérique.
+  Érudit’s management team met with members of the Collaborative Knowledge Foundation (Coko) to establish a lasting cooperative relationship with a view to creating new digital publishing tools.
 
 {:.text-xs .communications}
 #### 2016
-- ##### 19 janvier
+- ##### January 19
   - Whistler, Canada
-  - Participation à la journée de recherche INKE 2016
+  - Participation in the 2016 research day hosted by INKE
   <br><br>
-  Érudit a participé à la journée de recherche sur les humanités numériques organisée par INKE.
-- ##### 26 janvier
+  Érudit took part in a day of research on digital humanities organized by INKE.
+- ##### January 26
   - Montréal, Canada
-  - Rencontre officielle de la direction scientifique du FRQSC
+  - Official meeting of the scientific leadership of the Fonds de Recherche du Québec – Société et Culture (FRQSC)
   <br><br>
-  Le directeur scientifique d’Érudit a présenté les orientations du Consortium lors de la rencontre officielle avec Mme Louise Poissant, directrice scientifique du Fonds de recherche du Québec – Société et Culture, organisée le 26 janvier à l’Université de Montréal.
-- ##### 18 mars
+  Érudit's Scientific Director presented the principles guiding the Consortium during the official meeting with Louise Poissant, Scientific Director of the Fonds de Recherche du Québec – Société et Culture, on January 26 at the Université de Montréal.
+- ##### March 18
   - Montréal, Canada
-  - Table ronde "Écrire en français à l’ère du numérique : les enjeux de l’édition scientifique"
+  - Round Table "Écrire en français à l’ère du numérique : les enjeux de l’édition scientifique"
   <br><br>
-  Dans le cadre d'une journée de reflexion sur l’écriture et l’édition en français à l’ère du numérique co-organisée par le Centre de francophonie des Amériques, Tanja Niemann a présenté les activités d'Érudit pour faire rayonner les revues savantes francophones. <br><br>[Voir la présentation](https://youtu.be/bFF70bsLRHw?t=37m40s){:target="_blank"}
-- ##### 20 mars
+  Tanja Niemann presented the activities of Érudit to disseminate and promote journals. <br><br>[More](https://youtu.be/bFF70bsLRHw?t=37m40s){:target="_blank"}
+- ##### 20 March
   - Montréal, Canada
-  - Participation à l’émission *Les années-lumière* sur la Première chaîne de Radio Canada
+  - Appearance on the series Les Années-Lumière on Radio Canada’s Première channel.
   <br><br>
-  Science in French ou en anglais ? Participation de Tanja Niemann à une table ronde. <br><br>[En savoir plus](http://ici.radio-canada.ca/emissions/les_annees_lumiere/2012-2013/chronique.asp?idChronique=401236){:target="_blank"}
+  SScience in French ou en anglais? Round table in which Tanja Niemann participated. <br><br>[En savoir plus](http://ici.radio-canada.ca/emissions/les_annees_lumiere/2012-2013/chronique.asp?idChronique=401236){:target="_blank"}
 
 ---
 
 {:#enjeux-diffusion}
-### Série «&nbsp;Enjeux de la diffusion savante&nbsp;»
+### "Enjeux de la diffusion savante" series
 
 {:.text-lg .intro}
-Érudit a produit et diffusée dans le courant de l’année une série de vidéos afin de vulgariser les grands enjeux touchant la publication scientifique actuellement&nbsp;:
+Throughout the year, Érudit produced and broadcast a series of videos to educate the public about the major challenges affecting research publication today: 
 
 {:#videos}
 1. <iframe src="https://player.vimeo.com/video/130785289" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -148,37 +148,37 @@ The daylong seminar was attended by 110 editors of scholarly journals, heads of 
 ---
 
 {:#equipe-gouvernance}
-### Équipe et gouvernance
+### Team and Governance
 
 {:.text-lg}
-#### Notre équipe
+#### Our team
 
 {:.text-sm .intro}
-Notre équipe est composée de professionnels du milieu de l’édition ou des bibliothèques, tous passionnés par les nouvelles possibilités offertes par le numérique pour la recherche et la création&nbsp;!
+Our team consists of publishing or library professionals who are all fascinated by the new possibilities that digital technologies offer for research and creation.
 
 {:.roles .notre-equipe}
-Directrice générale
+Executive Director
 : Tanja Niemann
 
-Directrice des opérations
+Director of Operations
 : Joanie Lavoie
 
-Responsable des technologies
+Chief Information Officer
 : Davin Baragiotta
 
-Chargé d’édition numérique
+Digital Publishing Officer
 : Hocine Chehab
 
 &nbsp;
 
 {:.roles .notre-equipe}
-Chargée des partenariats
+Partnerships Officer
 : Émilie Chouinard
 
-Chargé de communication
+Communications Officer
 : Gwendal Henry
 
-Développeurs
+Developers
 : David Cormier
 : Sophy Ouch
 
@@ -186,52 +186,52 @@ Développeurs
 
 {:.roles .notre-equipe}
 
-Soutien administratif
+Administrative Assistant
 : Louise Lalonde
 
-Assistantes techniques
+Technical Assistants
 : Gabrielle Mathieu
 : Julie Tremblay-Devirieux
 
 {:.text-lg}
-#### Notre conseil d’administration
+#### Our Board of Directors
 
 {:.text-sm .intro}
-Le conseil d’administration d’Érudit est composé de personnalités du monde de la recherche, des bibliothèques universitaires et de l’édition.
+Érudit’s Board of Directors consists of figures from the worlds of research, university libraries and publishing.
 
 {:.roles .conseil-admin}
-Président
+Chair
 : Frédéric Bouchard
-: Vice-recteur associé à la recherche, à la découverte, à la création et à l’innovation, Université de Montréal
+: Vice-rector for research, discovery, creation and innovation at Université de Montréal
 
 &nbsp;
 
 {:.roles .conseil-admin}
-Vice-présidente
+Vice-chair
 : Loubna Ghaouti
-: Directrice de la Bibliothèque, Université Laval
+: Library Director, Université Laval
 
 &nbsp;
 
 {:.roles .conseil-admin}
-Secrétaire-trésorière
+Secretary-Treasurer
 : Lynda Gadoury
-: Directrice générale des bibliothèques, Université du Québec à Montréal
+: Executive Director of Libraries, Université du Québec à Montréal
 
 {:#observateurs-membres}
-- ##### Observateurs
+- ##### Observers
   - Marie-Thérèse Duquette
-    - Directrice des programmes et du développement des partenariats, Fonds de recherche du Québec – Société et culture (FRQSC)
+    - Head of Partnership Development and Programs, Fonds de Recherche du Québec – Société et Culture (FRQSC)
   - Vincent Larivière
     - Professeur agrégé, Université de Montréal, directeur scientifique, Érudit
   - Brent Roe
-    - Représentant du RCDR, Bibliothécaire en chef, Université Laurentienne
-- ##### Membres
+    - CRKN representative, University Librarian, Laurentian University
+- ##### Members
   - Marie Audette
-    - Vice-rectrice adjointe, Recherche et création, Université Laval
+    - Deputy vice-rector for research and creation, Université Laval 
   - Richard Dumont
-    - Directeur général de la Direction des bibliothèques, Université de Montréal
+    - Executive Director, Libraries Branch, Université de Montréal
   - Benoît Melançon
-    - Professeur titulaire, Département des littératures de langue française, Université de Montréal, directeur scientifique, Presses de l’Université de Montréal
+    - Professor, Department of French Literature, Université de Montréal and Scientific Director, Presses de l’Université de Montréal
   - Philippe Maubant
-    - Directeur de la revue Phronesis et professeur titulaire, Université de Sherbrooke
+    - Director of the journal Phronesis ands Professor, Université de Sherbrooke
