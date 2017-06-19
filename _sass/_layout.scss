@@ -64,8 +64,14 @@
   }
 
   .switch-lang a {
-    display: inline-block ;
-    color: #000;
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+
+    &:nth-child(2) {
+      float: left;
+    }
+
   }
 
   .toc-menu {
