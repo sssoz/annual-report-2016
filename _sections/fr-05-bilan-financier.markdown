@@ -65,7 +65,7 @@ order: 05
 - #### Actif à court terme
   - 1 623 287
   - 2 033 682
-- #### Passif à courte terme
+- #### Passif à court terme
   - 1 039 743
   - 1 182 164
 - #### Avoir des associés
