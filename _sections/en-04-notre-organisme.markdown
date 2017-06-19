@@ -12,7 +12,7 @@ List of presentations made during the year
 
 {:.text-xs .communications}
 #### 2015
-- ##### May 25 
+- ##### May 25
   - Rimouski, Canada
   - Organization of a conference entitled “Une plateforme de recherche et d’expérimentation pour l’édition ouverte”, the 2015 ACFAS congress
   <br><br>
@@ -85,7 +85,7 @@ The daylong seminar was attended by 110 editors of scholarly journals, heads of 
   - Presentation on Érudit at the *Nouvelles Collaborations Scientifiques Autour des Infrastructures du Numérique*
   <br><br>
    Vincent Larivière, Scientific Director of Érudit, introduced researchers to the Érudit platform as part of this seminar.
-- ##### December 4 
+- ##### December 4
   - San Francisco, États-Unis
   - Preliminary meeting with the Coko Foundation
   <br><br>
@@ -112,7 +112,7 @@ The daylong seminar was attended by 110 editors of scholarly journals, heads of 
   - Montréal, Canada
   - Appearance on the series Les Années-Lumière on Radio Canada’s Première channel.
   <br><br>
-  SScience in French ou en anglais? Round table in which Tanja Niemann participated. <br><br>[En savoir plus](http://ici.radio-canada.ca/emissions/les_annees_lumiere/2012-2013/chronique.asp?idChronique=401236){:target="_blank"}
+  Science in French ou en anglais? Round table in which Tanja Niemann participated. <br><br>[En savoir plus](http://ici.radio-canada.ca/emissions/les_annees_lumiere/2012-2013/chronique.asp?idChronique=401236){:target="_blank"}
 
 ---
 
@@ -120,7 +120,7 @@ The daylong seminar was attended by 110 editors of scholarly journals, heads of 
 ### "Enjeux de la diffusion savante" series
 
 {:.text-lg .intro}
-Throughout the year, Érudit produced and broadcast a series of videos to educate the public about the major challenges affecting research publication today: 
+Throughout the year, Érudit produced and broadcast a series of videos to educate the public about the major challenges affecting research publication today:
 
 {:#videos}
 1. <iframe src="https://player.vimeo.com/video/130785289" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -228,7 +228,7 @@ Secretary-Treasurer
     - CRKN representative, University Librarian, Laurentian University
 - ##### Members
   - Marie Audette
-    - Deputy vice-rector for research and creation, Université Laval 
+    - Deputy vice-rector for research and creation, Université Laval
   - Richard Dumont
     - Executive Director, Libraries Branch, Université de Montréal
   - Benoît Melançon
