@@ -43,7 +43,7 @@ Je tiens à souligner, au nom de l’ensemble du conseil d’administration, le 
 De grandes et belles choses sont encore à venir pour le Consortium Érudit et, à travers lui, pour le milieu de la recherche québécois et canadien.
 
 {:.portrait}
-![Frédéric Bouchard](img/bouchardf.png)
+![Frédéric Bouchard](/img/bouchardf.png)
 Frédéric Bouchard
 : {:.text-xs}Président du Consortium Érudit
 
@@ -60,6 +60,6 @@ L’exercice de planification stratégique, débuté cette année avec le consei
 Par ailleurs, l’équipe d’Érudit s’est encore agrandie. Nous avons mis en place une équipe de développement, afin d’améliorer le maintien de nos services, mais surtout en prévision de plusieurs grands chantiers technologiques qui verront bientôt le jour. Aussi, nous sommes heureux d’accueillir Frédéric Bouchard à titre de président du Consortium Érudit. Au nom de toute l’équipe, je lui souhaite la bienvenue. L’expertise et l’implication de M. Bouchard dans la promotion de la recherche et de l’innovation représentent des atouts précieux pour notre organisme. Je tiens à remercier madame Dominique Bérubé, notre présidente sortante, pour l’ensemble de son travail. Son dévouement et ses qualités managériales remarquables laisseront une marque indélébile au sein d’Érudit.
 
 {:.portrait}
-![Tanja Niemann](img/niemannt.png)
+![Tanja Niemann](/img/niemannt.png)
 Tanja Niemann
 : {:.text-xs}Directrice d’Érudit

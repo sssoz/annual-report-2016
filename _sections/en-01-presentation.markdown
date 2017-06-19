@@ -43,7 +43,7 @@ First, I would like to mention, on behalf of the Board of Directors, the wonderf
 There are still great things ahead for the Érudit Consortium and, through it, for the research community in Quebec and Canada.
 
 {:.portrait}
-![Frédéric Bouchard](img/bouchardf.png)
+![Frédéric Bouchard](/img/bouchardf.png)
 Frédéric Bouchard
 : {:.text-xs}Chair of the Érudit Consortium
 
@@ -60,6 +60,6 @@ Work on our strategic plan, which our Board of Directors and our entire team beg
 In addition, the Érudit team has expanded even further. We established a development team to better maintain our services, especially in preparation for several major upcoming technological projects. Furthermore, we are happy to have Frédéric Bouchard join us as Chair of Érudit Consortium. I would like to welcome him on behalf of the entire team. Mr. Bouchard's expertise and commitment to promoting research and innovation will be valuable assets for our organization. I would like to thank Dominique Bérubé, our outgoing Chair, for her tremendous work. Her dedication and remarkable managerial abilities have left a lasting imprint on Érudit.
 
 {:.portrait}
-![Tanja Niemann](img/niemannt.png)
+![Tanja Niemann](/img/niemannt.png)
 Tanja Niemann
 : {:.text-xs}Executive director of Érudit
