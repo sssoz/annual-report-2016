@@ -2,34 +2,55 @@
 title:  "Grandes réussites"
 ref: grandes-reussites
 lang: fr
-order: 03
+order: 02
 ---
-{:#opportunites-financement}
-### Renouveler et développer nos opportunités de financement
-
-1. #### Dépôt de la demande de renouvellement FCI-Initiative scientifique majeure
-  - Début 2015, notre organisme obtenait un investissement de 1,4 million $ de la Fondation canadienne pour l’innovation dans le cadre du volet Initiative scientifique majeure (ISM). Cette enveloppe financière nous a permis de maintenir notre infrastructure technologique, ainsi que notre offre de services auprès des éditeurs, bibliothécaires et chercheurs pendant deux ans, et reconnaissait Érudit comme la seule initiative de recherche nationale en sciences humaines et sociales. Nous avons entrepris la rédaction de la demande de renouvellement de ce soutien financier, qui garantira à notre Consortium une plus grande stabilité financière pour les années à venir.
-
-2. #### Dépôt de la demande FCI-Cyberinfrastructure
-  - Nous avons participé de façon très active à la rédaction de la demande Cyberinfrastructure déposée en 2016 à la Fondation canadienne pour l’innovation.
-  - Dirigé par le professeur Vincent Larivière, titulaire de la Chaire de recherche du Canada sur les transformations de la communication savante à l’Université de Montréal et directeur scientifique d’Érudit, ce projet rassemble une dizaine de chercheurs et de partenaires au Canada et à l’international autour des nouvelles possibilités du numérique pour la recherche en sciences humaines et sociales.
-
----
-
-{:#croissance-consortium}
-### Planifier la croissance  de notre consortium
+{:#subventions}
+### Obtention de deux importantes subventions 
 
 {:.intro}
-Deux éléments importants sont venus appuyer et structurer le développement du consortium Érudit en 2015-2016: un exercice de planification stratégique, et la mise en place d’une équipe des technologies de l’information.
+Un important travail de planification stratégique et de consolidation de la gestion d’Érudit a permis la reconduction de la subvention Initiative scientifique majeure de la Fondation canadienne pour l’innovation (ISM, 2014-2016) pour les 5 prochaines années (2017-2022). Ces fonds viennent soutenir les opérations courantes d’Érudit, alors qu’une autre subvention de la FCI financera les activités de recherche et de développement de 2017 à 2020 (concours cyberinfrastructure). Pour en savoir plus sur le projet CO-SHS (Cyberinfrastructure Ouverte pour les sciences humaines et sociales): https://co-shs.ca/fr/
+<br><br>
+C’est sur la base d’un partenariat stratégique consolidé avec le Public Knowledge Project, basé à l’Université Simon Fraser, que ces deux subventions d’importance ont été obtenues. Érudit et PKP ont développé, au fil des ans, des logiciels et une infrastructure de diffusion et de recherche complémentaires, permettant d’offrir aux revues une gamme complète de services soutenant l’ensemble de leurs activités éditoriales. C’est donc tout naturellement que le renforcement du partenariat, amorcé dans le cadre du projet Synergies, s’est orchestré. 
+<br><br>
+Érudit poursuit ainsi l’expansion de ses activités par l’élargissement de ses services à l’ensemble de la communauté de recherche canadienne avec pour objectif de soutenir encore plus efficacement les revues savantes de sciences humaines et sociales et d’art et lettres en contexte de transition vers le libre accès.
+<br><br>
+-> Réalisations
+<br><br>
+1. #### Partenariat stratégique entre Érudit et PKP 
+  - Définition de la nature et de la portée du partenariat stratégique (discussions et rencontres entre le président d’Érudit, l’université de Montréal, le bureau de recherche de SFU et les directions des deux organismes).
 
-1. #### Planification  stratégique
-  - Dans une période de croissance importante, Érudit a entrepris de planifier les grandes orientations de ses activités sur le long terme. Deux consultantes, issues du milieu de la recherche, ont épaulé le conseil d’administration et l’équipe d’Érudit dans cet exercice.
-  - Également, le milieu de la diffusion scientifique connaît de nombreux changements, avec l’arrivée de nouvelles pratiques de recherche (visualisation des données, exploitation de corpus, etc.) et le développement du mouvement pour le libre accès. Dans ce contexte, Érudit doit à la fois faire évoluer son offre de services et son modèle d’affaires.
+2. #### Activités de lancement du projet CO-SHS 
+  - Séminaire Huma-num-Érudit et hackaton qui a permis de développer l’API [widgets.rechercheisidore.fr](widgets.rechercheisidore.fr)
+  - Réunion rassemblant les chercheurs impliqués dans la réalisation de CO-SHS (novembre 2016) suivie de rencontres individuelles avec chaque laboratoire pour un arrimage des activités de développement (janvier à mars 2017).
 
-2. #### Création d’une équipe des technologies de l’information
-  - En prévision de plusieurs chantiers technologiques importants, la décision a été prise de mettre en place une équipe des technologies de l’information au sein d’Érudit. Grâce à l’appui du service des ressources humaines de l’Université de Montréal, nous avons pu recruter de nouveaux collaborateurs à l’automne 2015, tous engagés dans le développement informatique en code source ouvert et la diffusion des connaissances.  
-  - Sous la responsabilité de Davin Baragiotta, cette équipe est composée de deux développeurs (David Cormier, Sophy Ouch) et de deux administrateurs système (Philippe Dagenais, David Montminy). En parallèle, nous faisons appel à différents consultants et entreprises pour des projets de développements ciblés.
-  - La création de cette équipe a notamment demandé un travail de transfert des connaissances avec les membres du CEN-R, avec qui Érudit travaille depuis plusieurs années pour le maintien de nos infrastructures technologiques.
+---
+
+{:#renouveler-partenariat}
+### Renouvellement du Partenariat pour le libre accès
+
+{:.intro}
+En 2014 entrait en vigueur la Politique sur le libre accès aux publications des trois organismes subventionnaires fédéraux canadiens pour une diffusion sans barrière tarifaire des articles scientifiques après douze mois de parution.
+<br><br>
+Érudit a donc travaillé à l’établissement d’un nouveau modèle économique  permettant de financer le libre accès des publications en SHS et en arts et lettres. Il s’agissait afin alors de poursuivre de façon innovante et concertée la mission d’accompagnement des revues savantes québécoises et canadiennes d’Érudit dans un environnement numérique en changements rapides et continus.
+<br><br>
+Ceci s’est concrétisé par la transformation de la vente d’abonnements aux deux dernières années de publication, en un partenariat de soutien au libre accès. Au cours de 2016-2017, la première phase de mise en place du modèle, rendue possible grâce à la collaboration des bibliothèques de recherche membres du Réseau canadien de documentation pour la recherche, a été reconduite pour une année supplémentaire. Érudit a ainsi pu poursuivre le développement du modèle partenarial pour son implantation pérenne au Canada, nécessaire à un déploiement dans le reste du monde.
+
+<br><br>
+-> Réalisations 
+<br><br>
+
+1. #### Abaissement de la barrière mobile de 24 à 12 mois 
+  - La periode de restriction d'accès aux articles des revues commercialisées sur Érudit est passée de 24 à 12 mois. Cette action permet aux revues d'être conformes à la politique sur le libre accès [politique sur le libre accès](http://www.science.gc.ca/eic/site/063.nsf/fra/h_F6765465.html?OpenDocument) des 3 conseils de recherche canadiens et favorise une meilleure diffusion de leurs articles.
+
+2. #### Fonds de soutien aux revues en libre accès
+  - Le Partenariat pour le libre accès établi avec les bibliothèques universitaires canadiennes a permis la création d'un fonds de soutien de plus de 100 000$ pour les revues diffusées en libre accès complet. Ce fonds soutient une vingtaine de revues savantes dans un contexte économique fragile.
+  
+ 3. #### Accompagnement des revues vers un modèle de diffusion plus libre
+  - L'équipe d'Érudit a accompagné 4 revues dans leur transition de la diffusion commerciale vers le libre accès complet: 
+  * Lien social et Politiques. Revue internationale et interdisciplinaire de sciences humaines consacrée aux thèmes du lien social, de la sociabilité, des problèmes sociaux et des politiques publiques qui paraît depuis 1979. [Découvrir] (https://www.erudit.org/fr/revues/lsp/)
+   * Philosophiques. Publiée depuis 1974 par la revue de la Société de philosophie du Québec, Philosophiques présente des articles qui contribuent au progrès de la connaissance dans tous les domaines de la philosophie et de l'histoire de la philosophie. [Découvrir] (https://www.erudit.org/fr/revues/philoso/)
+      * Téoros. Depuis sa fondation en 1982, elle contribue au développement et à la diffusion de l’étude scientifique du tourisme dans une perspective pluridisciplinaire. [Découvrir] (https://www.erudit.org/fr/revues/teoros/)
+      * Criminologie. Revue de recherche s'adressant aux scientifiques et aux professionnels de la justice pénale. Criminologie présente des dossiers thématiques construits autour des préoccupations et des intérêts actuels des criminologues québécois, canadiens, états-uniens et européens. [Découvrir] (https://www.erudit.org/fr/revues/teoros/)
 
 ---
 
