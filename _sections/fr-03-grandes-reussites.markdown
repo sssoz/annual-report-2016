@@ -54,39 +54,14 @@ Ceci s’est concrétisé par la transformation de la vente d’abonnements aux 
 
 ---
 
-{:#valoriser-rcdr}
-### Valoriser notre Partenariat avec RCDR
+{:#refonte}
+### Refonte de la plateforme de diffusion
 
 {:.intro}
-Érudit a conclu un partenariat avec le Réseau canadien de documentation pour la recherche (RCDR/CRKN) afin d’instaurer, à l’échelle nationale, une solution durable de soutien à l’édition savante en libre accès. Grâce à ce partenariat, 53 bibliothèques universitaires canadiennes ont apporté leur soutien à 107 revues savantes canadiennes.
+La dernière mise à jour de la plateforme de diffusion d’Érudit datant de 2008, une grande opération de refonte logicielle et visuelle du site a été réalisée grâce aux fonds de la subvention Initiative scientifique majeure. 
 
 {:.intro}
-En apportant des solutions concrètes à la transition vers le libre accès, ce partenariat a eu un impact important dans le monde de la diffusion scientifique. Nous avons ainsi été invités en 2015-2016 à présenter cette initiative dans près d’une vingtaine de colloques et d'événements au Canada et à l’étranger. La liste détaillée est disponible dans la partie Communications.
+Un comité utilisateur a été créé avec pour objectif de recueillir des commentaires afin d’améliorer l’expérience utilisateur du site. Composé de 20 acteurs de la diffusion scientifique (bibliothécaires, responsables de revues, chercheurs), le comité a permis d’identifier les fonctionnalités à implanter et les nouveaux services à développer. Par ailleurs, ce renouvellement de la plateforme de diffusion a été l’occasion de repenser l’infrastructure technologique elle-même, pour favoriser son évolutivité, une caractéristique nécessaire dans un contexte en transformations rapides et continues. L’ajout éventuel de nouveaux services a été ainsi prévue et grandement simplifiée, alors que l’accès aux articles a été travaillé de sorte que leur rayonnement sur le web soit encore plus efficace et ciblé. Enfin, le site est maintenant adapté à différents appareils: téléphones, tablettes et ordinateurs portables (responsive design).
 
 {:.intro}
-En collaboration avec le RDCDR, nous avons également organisé un séminaire réunissant plus de 120 directeurs de revues savantes ou de bibliothèques universitaires autour des nouveaux modes de diffusion des connaissances et du libre accès. Cette journée a été l’occasion d’explorer les enjeux actuels que rencontrent les bibliothèques universitaires et les revues savantes au Canada et a permis des échanges fructueux entre les différents acteurs du milieu.
-
-{:.intro}
-Voici deux présentations qui ont particulièrement attiré notre attention :
-
-1. #### *Les transformations de l’édition savante à l’ère numérique*
-  - Vincent Larivière, prof. agrégé à l’École de bibliothéconomie et des sciences de l’information de l’UdeM, titulaire de la Chaire de recherche du Canada sur les transformations de la communication savante et directeur scientifique d’Érudit, a traité des changements auxquels fait face l’édition savante à l’ère numérique. Malgré la diversification des lieux de publication, l’anglicisation, le ralentissement de l’obsolescence des articles et la concentration de l’édition entre les mains de quelques grands éditeurs commerciaux, les revues savantes continuent à jouer un rôle non seulement central, mais crucial dans l’écosystème scientifique. Dans ce contexte, la diffusion en libre accès des résultats de la recherche devient un élément clé pour optimiser l’impact de l’édition savante sur la recherche.
-  - -> [Compte rendu de sa présentation](http://www.seminaire2015.org/new-page-3/){:target="_blank"}
-
-2. #### *Étude sur une coopérative d’édition savante en libre accès*
-  - John Willinsky, prof. à la Graduate School of Education de l’Université de Stanford, fondateur et directeur de Public Knowledge Project (PKP), a traité des différents modèles d’affaires permettant la diffusion en libre accès des publications scientifiques. La diffusion selon la voie verte (auto-archivage des articles) n’est pas pleinement adaptée aux sciences humaines. L’accès libre différé repose sur l’exclusion de certains lecteurs. Le modèle du paiement par l’auteur ne libère pas du monopole des grands éditeurs commerciaux. Face à ces constats, un modèle d’affaires coopératif pour soutenir la diffusion en libre accès est selon M. Willinsky la solution optimale, tant du point de vue du capital financier nécessaire, de l’équité envers les différents acteurs de la recherche, de la transparence de la gestion, que de la qualité du patrimoine scientifique que nous créons.
-  - -> [Compte rendu de sa présentation](http://www.seminaire2015.org/tude-sur-une-cooprative-ddition-savante-en-libre-accs/){:target="_blank"}
-
----
-
-{:.text-xs .conclusion}
-Toutes les présentations du séminaire (enregistrements et résumés) sont disponibles sur
-
-{:.text-md .conclusion}
-[seminaire2015.org](http://www.seminaire2015.org/){:target="_blank"}
-
-{:.text-sm .conclusion}
-Ces communications nous auront permis d’affirmer le rôle de premier plan que joue Érudit au sein de la communauté de la recherche en sciences humaines et sociales et auront conforté notre décision de poursuivre et de renforcer le modèle partenarial en soutien au libre accès dans les années à venir.
-
-{:.text-xs .conclusion}
-Vous pouvez en découvrir plus sur le Partenariat à l’adresse <br><br>-> [erudit.org/partenariat/OA](https://www.erudit.org/partenariat/OA){:target="_blank"}
+Dans le cadre du rehaussement de la plateforme, l’équipe technique a renforcé son utilisation du logiciel libre, toujours en lien avec l’engagement d’Érudit pour le partage du savoir. Ainsi, l’ensemble des développements a été réalisé avec l’utilisation de la plateforme collaborative GitHub (https://github.com/erudit), du système d’exploitation Linux et du langage de programmation Python. Conformément à la vocation nationale d’Érudit, l’infrastructure matérielle et applicative de la plateforme Érudit a été transférée sur les installations de Calcul Québec. 
