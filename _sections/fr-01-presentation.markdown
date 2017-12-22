@@ -31,7 +31,7 @@ C’est pour répondre efficacement à ces défis qu’Érudit a travaillé, au 
 C’est donc avec enthousiasme que je poursuis, avec le conseil d’administration et la direction d’Érudit, le travail de renforcement des acquis et de préparation de l’avenir, pour faire de la plateforme une installation de recherche d’envergure internationale. 
 
 {:.portrait}
-![Frédéric Bouchard](https://www.erudit.org/rapport/2016/img/bouchardf.png)
+![Frédéric Bouchard](https://www.erudit.org/rapport/2016/img/bouchard2017.png)
 Frédéric Bouchard
 : {:.text-xs}Président du Consortium Érudit
 
@@ -46,6 +46,6 @@ L’année 2016-2017 en a été une de grande consolidation. De l’infrastructu
 Je tiens par ailleurs à souligner l’excellence du travail de l’ensemble du personnel d’Érudit, qui a su mettre à profit ses compétences variées, ainsi que de l’ensemble de nos partenaires canadiens et internationaux. Je remercie également les membres de notre conseil d’administration qui nous soutiennent et nous accompagnent dans nos projets ambitieux. C’est grâce à leur engagement sans cesse renouvelé qu’Érudit est aujourd’hui plus prêt que jamais à relever les défis nombreux que posent l’édition scientifique de demain. 
 
 {:.portrait}
-![Tanja Niemann](https://www.erudit.org/rapport/2016/img/niemannt.png)
+![Tanja Niemann](https://www.erudit.org/rapport/2016/img/niemann2017.png)
 Tanja Niemann
 : {:.text-xs}Directrice d’Érudit
