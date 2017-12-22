@@ -5,10 +5,10 @@ lang: fr
 order: 01
 ---
 {:.text-xs .intro}
-Érudit donne accès à ses utilisateurs à de vastes collections de documents et de données scientifiques, principalement en sciences humaines, sociales et en arts et lettres. En tant que plateforme de production et de diffusion des résultats de la recherche, mais aussi d’outils de recherche pour les chercheurs, Érudit offre des services basés sur une utilisation intensive du numérique, devenu un élément essentiel de la communication savante.
+En partenariat avec les bibliothèques et les éditeurs scientifiques canadiens, Érudit travaille à la diffusion numérique des publications scientifiques et culturelles en sciences humaines et sociales. Érudit est un consortium interuniversitaire formé par l’Université de Montréal, l’Université Laval et l’Université du Québec à Montréal, et il est soutenu par le Fonds de recherche du Québec – Société et culture. Il est reconnu depuis 2014 comme initiative scientifique majeure par la Fondation canadienne pour l’innovation.
 
 {:.text-xs .intro}
-Sans but lucratif, Érudit est un consortium interuniversitaire qui regroupe l’Université de Montréal, l’Université Laval et l’Université du Québec à Montréal. Érudit est soutenu par le Fonds de recherche du Québec et est reconnu depuis 2014 comme Initiative scientifique majeure par la Fondation canadienne pour l’innovation.
+Érudit est un consortium interuniversitaire formé par l’Université de Montréal, l’Université Laval et l’Université du Québec à Montréal, et il est soutenu par le Fonds de recherche du Québec – Société et culture. Il est reconnu depuis 2014 comme initiative scientifique majeure par la Fondation canadienne pour l’innovation.
 
 ---
 
@@ -16,19 +16,7 @@ Sans but lucratif, Érudit est un consortium interuniversitaire qui regroupe l�
 ### Mission
 
 {:.text-lg}
-La mission d’Érudit est d’assurer la diffusion et la promotion des savoirs et de permettre l’accès aux corpus à des fins de recherche. Érudit favorise une diffusion ouverte.
-
----
-
-{:#valeurs}
-### Valeurs
-
-- {:.text-md}Innovation
-- {:.text-md}Partage
-- {:.text-md}Collaboration
-- {:.text-md}Bien commun
-- {:.text-md}Confiance
-- {:.text-md}Passion
+Assurer la diffusion et la promotion des savoirs et de permettre l’accès aux corpus à des fins de recherche. Érudit favorise une diffusion ouverte.
 
 ---
 
@@ -36,14 +24,14 @@ La mission d’Érudit est d’assurer la diffusion et la promotion des savoirs 
 ### Mot du président
 
 {:.text-xs}
-C’est avec un très grand plaisir que je commence cette année mon premier mandat comme président du Consortium Érudit. En tant que chercheur et professeur, je consulte régulièrement les publications diffusées sur la plateforme Érudit, et je suis fier de contribuer aujourd’hui au développement de cette organisation unique au Canada.
+Le monde de la publication scientifique fait face à des défis de taille : diminution des budgets d’acquisition des bibliothèques, concentration des capitaux entre les mains d’une poignée de grands éditeurs commerciaux, nouveaux modes de production, de diffusion et d’accès à la recherche qui poussent au changement l’ensemble du milieu...
 <br><br>
-Je tiens à souligner, au nom de l’ensemble du conseil d’administration, le formidable travail de Dominique Bérubé à ce poste de 2012 à 2015. Son implication et sa vision stratégique ont permis à Érudit de devenir une des principales plateformes numériques pour la diffusion des publications en sciences humaines et sociales, et ont indéniablement contribué aux grands succès du consortium dans la dernière année. La reconnaissance d’Érudit comme Initiative scientifique majeure par la Fondation canadienne pour l’innovation et la mise en place d’un partenariat avec les bibliothèques universitaires canadiennes font d’ailleurs partie des réussites qu’Érudit a travaillé à consolider en 2015-2016.
+C’est pour répondre efficacement à ces défis qu’Érudit a travaillé, au cours de 2016-2017, à renforcer ses liens les différents membres de la communauté scientifique canadienne et poursuivi le développement de nouvelles collaborations structurantes à l’étranger, avec pour résultat direct l’obtention de deux subventions de la Fondation canadienne pour l’innovation, dans les concours Initiative scientifique majeure et Cyberinfrastructure. 
 <br><br>
-De grandes et belles choses sont encore à venir pour le Consortium Érudit et, à travers lui, pour le milieu de la recherche québécois et canadien.
+C’est donc avec enthousiasme que je poursuis, avec le conseil d’administration et la direction d’Érudit, le travail de renforcement des acquis et de préparation de l’avenir, pour faire de la plateforme une installation de recherche d’envergure internationale. 
 
 {:.portrait}
-![Frédéric Bouchard](https://www.erudit.org/rapport/2016/img/bouchardf.png)
+![Frédéric Bouchard](https://www.erudit.org/rapport/2016/img/bouchard2017.png)
 Frédéric Bouchard
 : {:.text-xs}Président du Consortium Érudit
 
@@ -53,13 +41,11 @@ Frédéric Bouchard
 ### Mot de la directrice
 
 {:.text-xs}
-C’est forte de ses dernières réalisations - la reconnaissance à titre d’ISM, mais également le Partenariat avec les bibliothèques universitaires - que l’équipe d’Érudit a poursuivi son mandat de diffusion et de promotion du patrimoine scientifique québécois et canadien. Si notre organisme connaît une croissance importante depuis quelques années, nous évoluons également dans un environnement en pleine évolution, et nous devons soutenir les besoins toujours grandissants des chercheurs, bibliothécaires et éditeurs pour des services numériques.
+L’année 2016-2017 en a été une de grande consolidation. De l’infrastructure technologique d’Érudit d’abord, qui a été entièrement actualisée et migrée vers les installations de Calcul Québec, mais aussi de la plateforme de diffusion elle-même, qui a subi une refonte graphique et logicielle majeure. Ce renforcement des principaux éléments composant le coeur de métier d’Érudit nous permettra d’intégrer avec agilité et efficacité les transformations des pratiques d’édition savante et de recherche en SHS au cours des prochaines années. 
 <br><br>
-L’exercice de planification stratégique, débuté cette année avec le conseil d’administration et l’ensemble de l’équipe, s’inscrit ainsi en droite ligne avec notre volonté de positionner le Consortium au cœur de l’écosystème de la communication savante et de la culture numérique. Cela nous aura également permis d’encadrer la rédaction d’importantes demandes de financement, et de consolider nos grandes orientations.
-<br><br>
-Par ailleurs, l’équipe d’Érudit s’est encore agrandie. Nous avons mis en place une équipe de développement, afin d’améliorer le maintien de nos services, mais surtout en prévision de plusieurs grands chantiers technologiques qui verront bientôt le jour. Aussi, nous sommes heureux d’accueillir Frédéric Bouchard à titre de président du Consortium Érudit. Au nom de toute l’équipe, je lui souhaite la bienvenue. L’expertise et l’implication de M. Bouchard dans la promotion de la recherche et de l’innovation représentent des atouts précieux pour notre organisme. Je tiens à remercier madame Dominique Bérubé, notre présidente sortante, pour l’ensemble de son travail. Son dévouement et ses qualités managériales remarquables laisseront une marque indélébile au sein d’Érudit.
+Je tiens par ailleurs à souligner l’excellence du travail de l’ensemble du personnel d’Érudit, qui a su mettre à profit ses compétences variées, ainsi que de l’ensemble de nos partenaires canadiens et internationaux. Je remercie également les membres de notre conseil d’administration qui nous soutiennent et nous accompagnent dans nos projets ambitieux. C’est grâce à leur engagement sans cesse renouvelé qu’Érudit est aujourd’hui plus prêt que jamais à relever les défis nombreux que posent l’édition scientifique de demain. 
 
 {:.portrait}
-![Tanja Niemann](https://www.erudit.org/rapport/2016/img/niemannt.png)
+![Tanja Niemann](https://www.erudit.org/rapport/2016/img/niemann2017.png)
 Tanja Niemann
 : {:.text-xs}Directrice d’Érudit
