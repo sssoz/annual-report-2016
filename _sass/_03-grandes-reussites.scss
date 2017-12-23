@@ -24,6 +24,11 @@
 
   a {
     @include hover-link(#fff);
+
+    &:before {
+      content: '->';
+    }
+
   }
 
   .intro {
